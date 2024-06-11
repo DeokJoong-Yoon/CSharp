@@ -1,0 +1,14 @@
+G:\IT\C#\thisCSharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.exe
+G:\IT\C#\thisCSharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.deps.json
+G:\IT\C#\thisCSharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.runtimeconfig.json
+G:\IT\C#\thisCSharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.dll
+G:\IT\C#\thisCSharp\IntegralTypes\bin\Debug\net8.0\IntegralTypes.pdb
+G:\IT\C#\thisCSharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.dll
+G:\IT\C#\thisCSharp\IntegralTypes\obj\Debug\net8.0\refint\IntegralTypes.dll
+G:\IT\C#\thisCSharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.pdb
+G:\IT\C#\thisCSharp\IntegralTypes\obj\Debug\net8.0\IntegralTypes.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\IntegralTypes\obj\Debug\net8.0\ref\IntegralTypes.dll
