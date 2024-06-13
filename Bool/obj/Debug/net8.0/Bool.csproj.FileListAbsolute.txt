@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Bool\bin\Debug\net8.0\Bool.exe
+G:\IT\C#\thisCSharp\Bool\bin\Debug\net8.0\Bool.deps.json
+G:\IT\C#\thisCSharp\Bool\bin\Debug\net8.0\Bool.runtimeconfig.json
+G:\IT\C#\thisCSharp\Bool\bin\Debug\net8.0\Bool.dll
+G:\IT\C#\thisCSharp\Bool\bin\Debug\net8.0\Bool.pdb
+G:\IT\C#\thisCSharp\Bool\obj\Debug\net8.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Bool\obj\Debug\net8.0\Bool.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Bool\obj\Debug\net8.0\Bool.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Bool\obj\Debug\net8.0\Bool.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Bool\obj\Debug\net8.0\Bool.sourcelink.json
+G:\IT\C#\thisCSharp\Bool\obj\Debug\net8.0\Bool.dll
+G:\IT\C#\thisCSharp\Bool\obj\Debug\net8.0\refint\Bool.dll
+G:\IT\C#\thisCSharp\Bool\obj\Debug\net8.0\Bool.pdb
+G:\IT\C#\thisCSharp\Bool\obj\Debug\net8.0\Bool.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Bool\obj\Debug\net8.0\ref\Bool.dll

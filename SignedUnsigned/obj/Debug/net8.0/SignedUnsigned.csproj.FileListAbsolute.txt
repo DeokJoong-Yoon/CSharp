@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.exe
+G:\IT\C#\thisCSharp\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.deps.json
+G:\IT\C#\thisCSharp\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.runtimeconfig.json
+G:\IT\C#\thisCSharp\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.dll
+G:\IT\C#\thisCSharp\SignedUnsigned\bin\Debug\net8.0\SignedUnsigned.pdb
+G:\IT\C#\thisCSharp\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.sourcelink.json
+G:\IT\C#\thisCSharp\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.dll
+G:\IT\C#\thisCSharp\SignedUnsigned\obj\Debug\net8.0\refint\SignedUnsigned.dll
+G:\IT\C#\thisCSharp\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.pdb
+G:\IT\C#\thisCSharp\SignedUnsigned\obj\Debug\net8.0\SignedUnsigned.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\SignedUnsigned\obj\Debug\net8.0\ref\SignedUnsigned.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Decimal\bin\Debug\net8.0\Decimal.exe
+G:\IT\C#\thisCSharp\Decimal\bin\Debug\net8.0\Decimal.deps.json
+G:\IT\C#\thisCSharp\Decimal\bin\Debug\net8.0\Decimal.runtimeconfig.json
+G:\IT\C#\thisCSharp\Decimal\bin\Debug\net8.0\Decimal.dll
+G:\IT\C#\thisCSharp\Decimal\bin\Debug\net8.0\Decimal.pdb
+G:\IT\C#\thisCSharp\Decimal\obj\Debug\net8.0\Decimal.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Decimal\obj\Debug\net8.0\Decimal.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Decimal\obj\Debug\net8.0\Decimal.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Decimal\obj\Debug\net8.0\Decimal.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Decimal\obj\Debug\net8.0\Decimal.sourcelink.json
+G:\IT\C#\thisCSharp\Decimal\obj\Debug\net8.0\Decimal.dll
+G:\IT\C#\thisCSharp\Decimal\obj\Debug\net8.0\refint\Decimal.dll
+G:\IT\C#\thisCSharp\Decimal\obj\Debug\net8.0\Decimal.pdb
+G:\IT\C#\thisCSharp\Decimal\obj\Debug\net8.0\Decimal.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Decimal\obj\Debug\net8.0\ref\Decimal.dll

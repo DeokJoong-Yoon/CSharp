@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Char\bin\Debug\net8.0\Char.exe
+G:\IT\C#\thisCSharp\Char\bin\Debug\net8.0\Char.deps.json
+G:\IT\C#\thisCSharp\Char\bin\Debug\net8.0\Char.runtimeconfig.json
+G:\IT\C#\thisCSharp\Char\bin\Debug\net8.0\Char.dll
+G:\IT\C#\thisCSharp\Char\bin\Debug\net8.0\Char.pdb
+G:\IT\C#\thisCSharp\Char\obj\Debug\net8.0\Char.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Char\obj\Debug\net8.0\Char.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Char\obj\Debug\net8.0\Char.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Char\obj\Debug\net8.0\Char.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Char\obj\Debug\net8.0\Char.sourcelink.json
+G:\IT\C#\thisCSharp\Char\obj\Debug\net8.0\Char.dll
+G:\IT\C#\thisCSharp\Char\obj\Debug\net8.0\refint\Char.dll
+G:\IT\C#\thisCSharp\Char\obj\Debug\net8.0\Char.pdb
+G:\IT\C#\thisCSharp\Char\obj\Debug\net8.0\Char.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Char\obj\Debug\net8.0\ref\Char.dll

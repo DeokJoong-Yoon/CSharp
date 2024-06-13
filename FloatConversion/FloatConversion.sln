@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatConversion", "FloatConversion.csproj", "{552B5F7A-4516-4F84-B237-9ED3AE45AB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552B5F7A-4516-4F84-B237-9ED3AE45AB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552B5F7A-4516-4F84-B237-9ED3AE45AB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552B5F7A-4516-4F84-B237-9ED3AE45AB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552B5F7A-4516-4F84-B237-9ED3AE45AB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B9D07E3-58D5-42DE-8D21-D45BC2178945}
+	EndGlobalSection
+EndGlobal

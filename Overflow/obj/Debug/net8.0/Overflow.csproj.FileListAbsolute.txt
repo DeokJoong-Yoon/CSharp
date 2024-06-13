@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Overflow\bin\Debug\net8.0\Overflow.exe
+G:\IT\C#\thisCSharp\Overflow\bin\Debug\net8.0\Overflow.deps.json
+G:\IT\C#\thisCSharp\Overflow\bin\Debug\net8.0\Overflow.runtimeconfig.json
+G:\IT\C#\thisCSharp\Overflow\bin\Debug\net8.0\Overflow.dll
+G:\IT\C#\thisCSharp\Overflow\bin\Debug\net8.0\Overflow.pdb
+G:\IT\C#\thisCSharp\Overflow\obj\Debug\net8.0\Overflow.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Overflow\obj\Debug\net8.0\Overflow.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Overflow\obj\Debug\net8.0\Overflow.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Overflow\obj\Debug\net8.0\Overflow.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Overflow\obj\Debug\net8.0\Overflow.sourcelink.json
+G:\IT\C#\thisCSharp\Overflow\obj\Debug\net8.0\Overflow.dll
+G:\IT\C#\thisCSharp\Overflow\obj\Debug\net8.0\refint\Overflow.dll
+G:\IT\C#\thisCSharp\Overflow\obj\Debug\net8.0\Overflow.pdb
+G:\IT\C#\thisCSharp\Overflow\obj\Debug\net8.0\Overflow.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Overflow\obj\Debug\net8.0\ref\Overflow.dll

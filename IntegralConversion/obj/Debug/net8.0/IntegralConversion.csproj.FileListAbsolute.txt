@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\IntegralConversion\bin\Debug\net8.0\IntegralConversion.exe
+G:\IT\C#\thisCSharp\IntegralConversion\bin\Debug\net8.0\IntegralConversion.deps.json
+G:\IT\C#\thisCSharp\IntegralConversion\bin\Debug\net8.0\IntegralConversion.runtimeconfig.json
+G:\IT\C#\thisCSharp\IntegralConversion\bin\Debug\net8.0\IntegralConversion.dll
+G:\IT\C#\thisCSharp\IntegralConversion\bin\Debug\net8.0\IntegralConversion.pdb
+G:\IT\C#\thisCSharp\IntegralConversion\obj\Debug\net8.0\IntegralConversion.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\IntegralConversion\obj\Debug\net8.0\IntegralConversion.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\IntegralConversion\obj\Debug\net8.0\IntegralConversion.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\IntegralConversion\obj\Debug\net8.0\IntegralConversion.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\IntegralConversion\obj\Debug\net8.0\IntegralConversion.sourcelink.json
+G:\IT\C#\thisCSharp\IntegralConversion\obj\Debug\net8.0\IntegralConversion.dll
+G:\IT\C#\thisCSharp\IntegralConversion\obj\Debug\net8.0\refint\IntegralConversion.dll
+G:\IT\C#\thisCSharp\IntegralConversion\obj\Debug\net8.0\IntegralConversion.pdb
+G:\IT\C#\thisCSharp\IntegralConversion\obj\Debug\net8.0\IntegralConversion.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\IntegralConversion\obj\Debug\net8.0\ref\IntegralConversion.dll

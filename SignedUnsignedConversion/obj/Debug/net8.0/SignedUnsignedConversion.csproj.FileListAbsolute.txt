@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.exe
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.deps.json
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.runtimeconfig.json
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.dll
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\bin\Debug\net8.0\SignedUnsignedConversion.pdb
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.sourcelink.json
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.dll
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\obj\Debug\net8.0\refint\SignedUnsignedConversion.dll
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.pdb
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\obj\Debug\net8.0\SignedUnsignedConversion.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\SignedUnsignedConversion\obj\Debug\net8.0\ref\SignedUnsignedConversion.dll
