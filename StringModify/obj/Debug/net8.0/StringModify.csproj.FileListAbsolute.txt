@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\StringModify\bin\Debug\net8.0\StringModify.exe
+G:\IT\C#\thisCSharp\StringModify\bin\Debug\net8.0\StringModify.deps.json
+G:\IT\C#\thisCSharp\StringModify\bin\Debug\net8.0\StringModify.runtimeconfig.json
+G:\IT\C#\thisCSharp\StringModify\bin\Debug\net8.0\StringModify.dll
+G:\IT\C#\thisCSharp\StringModify\bin\Debug\net8.0\StringModify.pdb
+G:\IT\C#\thisCSharp\StringModify\obj\Debug\net8.0\StringModify.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\StringModify\obj\Debug\net8.0\StringModify.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\StringModify\obj\Debug\net8.0\StringModify.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\StringModify\obj\Debug\net8.0\StringModify.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\StringModify\obj\Debug\net8.0\StringModify.sourcelink.json
+G:\IT\C#\thisCSharp\StringModify\obj\Debug\net8.0\StringModify.dll
+G:\IT\C#\thisCSharp\StringModify\obj\Debug\net8.0\refint\StringModify.dll
+G:\IT\C#\thisCSharp\StringModify\obj\Debug\net8.0\StringModify.pdb
+G:\IT\C#\thisCSharp\StringModify\obj\Debug\net8.0\StringModify.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\StringModify\obj\Debug\net8.0\ref\StringModify.dll

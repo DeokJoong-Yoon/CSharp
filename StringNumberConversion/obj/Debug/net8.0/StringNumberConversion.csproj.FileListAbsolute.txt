@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.exe
+G:\IT\C#\thisCSharp\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.deps.json
+G:\IT\C#\thisCSharp\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.runtimeconfig.json
+G:\IT\C#\thisCSharp\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.dll
+G:\IT\C#\thisCSharp\StringNumberConversion\bin\Debug\net8.0\StringNumberConversion.pdb
+G:\IT\C#\thisCSharp\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.sourcelink.json
+G:\IT\C#\thisCSharp\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.dll
+G:\IT\C#\thisCSharp\StringNumberConversion\obj\Debug\net8.0\refint\StringNumberConversion.dll
+G:\IT\C#\thisCSharp\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.pdb
+G:\IT\C#\thisCSharp\StringNumberConversion\obj\Debug\net8.0\StringNumberConversion.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\StringNumberConversion\obj\Debug\net8.0\ref\StringNumberConversion.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.exe
+G:\IT\C#\thisCSharp\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.deps.json
+G:\IT\C#\thisCSharp\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.runtimeconfig.json
+G:\IT\C#\thisCSharp\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.dll
+G:\IT\C#\thisCSharp\FloatToIntegral\bin\Debug\net8.0\FloatToIntegral.pdb
+G:\IT\C#\thisCSharp\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.sourcelink.json
+G:\IT\C#\thisCSharp\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.dll
+G:\IT\C#\thisCSharp\FloatToIntegral\obj\Debug\net8.0\refint\FloatToIntegral.dll
+G:\IT\C#\thisCSharp\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.pdb
+G:\IT\C#\thisCSharp\FloatToIntegral\obj\Debug\net8.0\FloatToIntegral.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\FloatToIntegral\obj\Debug\net8.0\ref\FloatToIntegral.dll

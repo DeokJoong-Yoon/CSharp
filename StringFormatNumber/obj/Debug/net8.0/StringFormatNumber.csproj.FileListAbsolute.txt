@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.exe
+G:\IT\C#\thisCSharp\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.deps.json
+G:\IT\C#\thisCSharp\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.runtimeconfig.json
+G:\IT\C#\thisCSharp\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.dll
+G:\IT\C#\thisCSharp\StringFormatNumber\bin\Debug\net8.0\StringFormatNumber.pdb
+G:\IT\C#\thisCSharp\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.sourcelink.json
+G:\IT\C#\thisCSharp\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.dll
+G:\IT\C#\thisCSharp\StringFormatNumber\obj\Debug\net8.0\refint\StringFormatNumber.dll
+G:\IT\C#\thisCSharp\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.pdb
+G:\IT\C#\thisCSharp\StringFormatNumber\obj\Debug\net8.0\StringFormatNumber.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\StringFormatNumber\obj\Debug\net8.0\ref\StringFormatNumber.dll

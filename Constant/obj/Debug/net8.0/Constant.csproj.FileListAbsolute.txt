@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Constant\obj\Debug\net8.0\Constant.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Constant\obj\Debug\net8.0\Constant.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Constant\obj\Debug\net8.0\Constant.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Constant\obj\Debug\net8.0\Constant.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Constant\obj\Debug\net8.0\Constant.sourcelink.json
+G:\IT\C#\thisCSharp\Constant\bin\Debug\net8.0\Constant.exe
+G:\IT\C#\thisCSharp\Constant\bin\Debug\net8.0\Constant.deps.json
+G:\IT\C#\thisCSharp\Constant\bin\Debug\net8.0\Constant.runtimeconfig.json
+G:\IT\C#\thisCSharp\Constant\bin\Debug\net8.0\Constant.dll
+G:\IT\C#\thisCSharp\Constant\bin\Debug\net8.0\Constant.pdb
+G:\IT\C#\thisCSharp\Constant\obj\Debug\net8.0\Constant.dll
+G:\IT\C#\thisCSharp\Constant\obj\Debug\net8.0\refint\Constant.dll
+G:\IT\C#\thisCSharp\Constant\obj\Debug\net8.0\Constant.pdb
+G:\IT\C#\thisCSharp\Constant\obj\Debug\net8.0\Constant.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Constant\obj\Debug\net8.0\ref\Constant.dll

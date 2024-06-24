@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\CTS\bin\Debug\net8.0\CTS.exe
+G:\IT\C#\thisCSharp\CTS\bin\Debug\net8.0\CTS.deps.json
+G:\IT\C#\thisCSharp\CTS\bin\Debug\net8.0\CTS.runtimeconfig.json
+G:\IT\C#\thisCSharp\CTS\bin\Debug\net8.0\CTS.dll
+G:\IT\C#\thisCSharp\CTS\bin\Debug\net8.0\CTS.pdb
+G:\IT\C#\thisCSharp\CTS\obj\Debug\net8.0\CTS.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\CTS\obj\Debug\net8.0\CTS.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\CTS\obj\Debug\net8.0\CTS.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\CTS\obj\Debug\net8.0\CTS.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\CTS\obj\Debug\net8.0\CTS.sourcelink.json
+G:\IT\C#\thisCSharp\CTS\obj\Debug\net8.0\CTS.dll
+G:\IT\C#\thisCSharp\CTS\obj\Debug\net8.0\refint\CTS.dll
+G:\IT\C#\thisCSharp\CTS\obj\Debug\net8.0\CTS.pdb
+G:\IT\C#\thisCSharp\CTS\obj\Debug\net8.0\CTS.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\CTS\obj\Debug\net8.0\ref\CTS.dll

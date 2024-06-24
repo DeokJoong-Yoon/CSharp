@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoxingUnboxing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9af144a886f033f83f950a0c27f6a1c4a9291c0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1717e86e66719d6cbd511a1a335cd49ad719797")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoxingUnboxing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoxingUnboxing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
