@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\StringConcatenate\bin\Debug\net8.0\StringConcatenate.exe
+G:\IT\C#\thisCSharp\StringConcatenate\bin\Debug\net8.0\StringConcatenate.deps.json
+G:\IT\C#\thisCSharp\StringConcatenate\bin\Debug\net8.0\StringConcatenate.runtimeconfig.json
+G:\IT\C#\thisCSharp\StringConcatenate\bin\Debug\net8.0\StringConcatenate.dll
+G:\IT\C#\thisCSharp\StringConcatenate\bin\Debug\net8.0\StringConcatenate.pdb
+G:\IT\C#\thisCSharp\StringConcatenate\obj\Debug\net8.0\StringConcatenate.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\StringConcatenate\obj\Debug\net8.0\StringConcatenate.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\StringConcatenate\obj\Debug\net8.0\StringConcatenate.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\StringConcatenate\obj\Debug\net8.0\StringConcatenate.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\StringConcatenate\obj\Debug\net8.0\StringConcatenate.sourcelink.json
+G:\IT\C#\thisCSharp\StringConcatenate\obj\Debug\net8.0\StringConcatenate.dll
+G:\IT\C#\thisCSharp\StringConcatenate\obj\Debug\net8.0\refint\StringConcatenate.dll
+G:\IT\C#\thisCSharp\StringConcatenate\obj\Debug\net8.0\StringConcatenate.pdb
+G:\IT\C#\thisCSharp\StringConcatenate\obj\Debug\net8.0\StringConcatenate.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\StringConcatenate\obj\Debug\net8.0\ref\StringConcatenate.dll

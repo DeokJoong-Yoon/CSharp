@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\UsingOut\bin\Debug\net8.0\UsingOut.exe
+G:\IT\C#\thisCSharp\UsingOut\bin\Debug\net8.0\UsingOut.deps.json
+G:\IT\C#\thisCSharp\UsingOut\bin\Debug\net8.0\UsingOut.runtimeconfig.json
+G:\IT\C#\thisCSharp\UsingOut\bin\Debug\net8.0\UsingOut.dll
+G:\IT\C#\thisCSharp\UsingOut\bin\Debug\net8.0\UsingOut.pdb
+G:\IT\C#\thisCSharp\UsingOut\obj\Debug\net8.0\UsingOut.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\UsingOut\obj\Debug\net8.0\UsingOut.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\UsingOut\obj\Debug\net8.0\UsingOut.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\UsingOut\obj\Debug\net8.0\UsingOut.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\UsingOut\obj\Debug\net8.0\UsingOut.sourcelink.json
+G:\IT\C#\thisCSharp\UsingOut\obj\Debug\net8.0\UsingOut.dll
+G:\IT\C#\thisCSharp\UsingOut\obj\Debug\net8.0\refint\UsingOut.dll
+G:\IT\C#\thisCSharp\UsingOut\obj\Debug\net8.0\UsingOut.pdb
+G:\IT\C#\thisCSharp\UsingOut\obj\Debug\net8.0\UsingOut.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\UsingOut\obj\Debug\net8.0\ref\UsingOut.dll

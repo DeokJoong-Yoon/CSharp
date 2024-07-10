@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\NullOalescing\bin\Debug\net8.0\NullCoalescing.exe
+G:\IT\C#\thisCSharp\NullOalescing\bin\Debug\net8.0\NullCoalescing.deps.json
+G:\IT\C#\thisCSharp\NullOalescing\bin\Debug\net8.0\NullCoalescing.runtimeconfig.json
+G:\IT\C#\thisCSharp\NullOalescing\bin\Debug\net8.0\NullCoalescing.dll
+G:\IT\C#\thisCSharp\NullOalescing\bin\Debug\net8.0\NullCoalescing.pdb
+G:\IT\C#\thisCSharp\NullOalescing\obj\Debug\net8.0\NullCoalescing.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\NullOalescing\obj\Debug\net8.0\NullCoalescing.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\NullOalescing\obj\Debug\net8.0\NullCoalescing.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\NullOalescing\obj\Debug\net8.0\NullCoalescing.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\NullOalescing\obj\Debug\net8.0\NullCoalescing.sourcelink.json
+G:\IT\C#\thisCSharp\NullOalescing\obj\Debug\net8.0\NullCoalescing.dll
+G:\IT\C#\thisCSharp\NullOalescing\obj\Debug\net8.0\refint\NullCoalescing.dll
+G:\IT\C#\thisCSharp\NullOalescing\obj\Debug\net8.0\NullCoalescing.pdb
+G:\IT\C#\thisCSharp\NullOalescing\obj\Debug\net8.0\NullCoalescing.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\NullOalescing\obj\Debug\net8.0\ref\NullCoalescing.dll

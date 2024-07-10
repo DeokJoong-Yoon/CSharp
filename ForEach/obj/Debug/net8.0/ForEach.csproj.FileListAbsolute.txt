@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\ForEach\bin\Debug\net8.0\ForEach.exe
+G:\IT\C#\thisCSharp\ForEach\bin\Debug\net8.0\ForEach.deps.json
+G:\IT\C#\thisCSharp\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+G:\IT\C#\thisCSharp\ForEach\bin\Debug\net8.0\ForEach.dll
+G:\IT\C#\thisCSharp\ForEach\bin\Debug\net8.0\ForEach.pdb
+G:\IT\C#\thisCSharp\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\ForEach\obj\Debug\net8.0\ForEach.sourcelink.json
+G:\IT\C#\thisCSharp\ForEach\obj\Debug\net8.0\ForEach.dll
+G:\IT\C#\thisCSharp\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+G:\IT\C#\thisCSharp\ForEach\obj\Debug\net8.0\ForEach.pdb
+G:\IT\C#\thisCSharp\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\ForEach\obj\Debug\net8.0\ref\ForEach.dll

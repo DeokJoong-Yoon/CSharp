@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Ex6_3\bin\Debug\net8.0\Ex6_3.exe
+G:\IT\C#\thisCSharp\Ex6_3\bin\Debug\net8.0\Ex6_3.deps.json
+G:\IT\C#\thisCSharp\Ex6_3\bin\Debug\net8.0\Ex6_3.runtimeconfig.json
+G:\IT\C#\thisCSharp\Ex6_3\bin\Debug\net8.0\Ex6_3.dll
+G:\IT\C#\thisCSharp\Ex6_3\bin\Debug\net8.0\Ex6_3.pdb
+G:\IT\C#\thisCSharp\Ex6_3\obj\Debug\net8.0\Ex6_3.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Ex6_3\obj\Debug\net8.0\Ex6_3.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Ex6_3\obj\Debug\net8.0\Ex6_3.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Ex6_3\obj\Debug\net8.0\Ex6_3.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Ex6_3\obj\Debug\net8.0\Ex6_3.sourcelink.json
+G:\IT\C#\thisCSharp\Ex6_3\obj\Debug\net8.0\Ex6_3.dll
+G:\IT\C#\thisCSharp\Ex6_3\obj\Debug\net8.0\refint\Ex6_3.dll
+G:\IT\C#\thisCSharp\Ex6_3\obj\Debug\net8.0\Ex6_3.pdb
+G:\IT\C#\thisCSharp\Ex6_3\obj\Debug\net8.0\Ex6_3.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Ex6_3\obj\Debug\net8.0\ref\Ex6_3.dll

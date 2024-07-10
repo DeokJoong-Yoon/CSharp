@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\해\bin\Debug\net8.0\해.exe
+G:\IT\C#\thisCSharp\해\bin\Debug\net8.0\해.deps.json
+G:\IT\C#\thisCSharp\해\bin\Debug\net8.0\해.runtimeconfig.json
+G:\IT\C#\thisCSharp\해\bin\Debug\net8.0\해.dll
+G:\IT\C#\thisCSharp\해\bin\Debug\net8.0\해.pdb
+G:\IT\C#\thisCSharp\해\obj\Debug\net8.0\해.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\해\obj\Debug\net8.0\해.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\해\obj\Debug\net8.0\해.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\해\obj\Debug\net8.0\해.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\해\obj\Debug\net8.0\해.sourcelink.json
+G:\IT\C#\thisCSharp\해\obj\Debug\net8.0\해.dll
+G:\IT\C#\thisCSharp\해\obj\Debug\net8.0\refint\해.dll
+G:\IT\C#\thisCSharp\해\obj\Debug\net8.0\해.pdb
+G:\IT\C#\thisCSharp\해\obj\Debug\net8.0\해.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\해\obj\Debug\net8.0\ref\해.dll

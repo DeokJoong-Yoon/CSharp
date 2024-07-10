@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\StringInterpolation\bin\Debug\net8.0\StringInterpolation.exe
+G:\IT\C#\thisCSharp\StringInterpolation\bin\Debug\net8.0\StringInterpolation.deps.json
+G:\IT\C#\thisCSharp\StringInterpolation\bin\Debug\net8.0\StringInterpolation.runtimeconfig.json
+G:\IT\C#\thisCSharp\StringInterpolation\bin\Debug\net8.0\StringInterpolation.dll
+G:\IT\C#\thisCSharp\StringInterpolation\bin\Debug\net8.0\StringInterpolation.pdb
+G:\IT\C#\thisCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.sourcelink.json
+G:\IT\C#\thisCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.dll
+G:\IT\C#\thisCSharp\StringInterpolation\obj\Debug\net8.0\refint\StringInterpolation.dll
+G:\IT\C#\thisCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.pdb
+G:\IT\C#\thisCSharp\StringInterpolation\obj\Debug\net8.0\StringInterpolation.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\StringInterpolation\obj\Debug\net8.0\ref\StringInterpolation.dll

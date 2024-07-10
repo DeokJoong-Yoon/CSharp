@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.exe
+G:\IT\C#\thisCSharp\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.deps.json
+G:\IT\C#\thisCSharp\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.runtimeconfig.json
+G:\IT\C#\thisCSharp\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.dll
+G:\IT\C#\thisCSharp\AssignmentOperator\bin\Debug\net8.0\AssignmentOperator.pdb
+G:\IT\C#\thisCSharp\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.sourcelink.json
+G:\IT\C#\thisCSharp\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.dll
+G:\IT\C#\thisCSharp\AssignmentOperator\obj\Debug\net8.0\refint\AssignmentOperator.dll
+G:\IT\C#\thisCSharp\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.pdb
+G:\IT\C#\thisCSharp\AssignmentOperator\obj\Debug\net8.0\AssignmentOperator.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\AssignmentOperator\obj\Debug\net8.0\ref\AssignmentOperator.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\UsingVar\bin\Debug\net8.0\UsingVar.exe
+G:\IT\C#\thisCSharp\UsingVar\bin\Debug\net8.0\UsingVar.deps.json
+G:\IT\C#\thisCSharp\UsingVar\bin\Debug\net8.0\UsingVar.runtimeconfig.json
+G:\IT\C#\thisCSharp\UsingVar\bin\Debug\net8.0\UsingVar.dll
+G:\IT\C#\thisCSharp\UsingVar\bin\Debug\net8.0\UsingVar.pdb
+G:\IT\C#\thisCSharp\UsingVar\obj\Debug\net8.0\UsingVar.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\UsingVar\obj\Debug\net8.0\UsingVar.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\UsingVar\obj\Debug\net8.0\UsingVar.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\UsingVar\obj\Debug\net8.0\UsingVar.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\UsingVar\obj\Debug\net8.0\UsingVar.sourcelink.json
+G:\IT\C#\thisCSharp\UsingVar\obj\Debug\net8.0\UsingVar.dll
+G:\IT\C#\thisCSharp\UsingVar\obj\Debug\net8.0\refint\UsingVar.dll
+G:\IT\C#\thisCSharp\UsingVar\obj\Debug\net8.0\UsingVar.pdb
+G:\IT\C#\thisCSharp\UsingVar\obj\Debug\net8.0\UsingVar.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\UsingVar\obj\Debug\net8.0\ref\UsingVar.dll

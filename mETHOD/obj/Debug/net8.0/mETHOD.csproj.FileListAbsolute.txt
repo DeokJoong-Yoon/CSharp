@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\mETHOD\obj\Debug\net8.0\mETHOD.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\mETHOD\obj\Debug\net8.0\mETHOD.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\mETHOD\obj\Debug\net8.0\mETHOD.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\mETHOD\obj\Debug\net8.0\mETHOD.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\mETHOD\obj\Debug\net8.0\mETHOD.sourcelink.json
+G:\IT\C#\thisCSharp\mETHOD\bin\Debug\net8.0\mETHOD.exe
+G:\IT\C#\thisCSharp\mETHOD\bin\Debug\net8.0\mETHOD.deps.json
+G:\IT\C#\thisCSharp\mETHOD\bin\Debug\net8.0\mETHOD.runtimeconfig.json
+G:\IT\C#\thisCSharp\mETHOD\bin\Debug\net8.0\mETHOD.dll
+G:\IT\C#\thisCSharp\mETHOD\bin\Debug\net8.0\mETHOD.pdb
+G:\IT\C#\thisCSharp\mETHOD\obj\Debug\net8.0\mETHOD.dll
+G:\IT\C#\thisCSharp\mETHOD\obj\Debug\net8.0\refint\mETHOD.dll
+G:\IT\C#\thisCSharp\mETHOD\obj\Debug\net8.0\mETHOD.pdb
+G:\IT\C#\thisCSharp\mETHOD\obj\Debug\net8.0\mETHOD.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\mETHOD\obj\Debug\net8.0\ref\mETHOD.dll

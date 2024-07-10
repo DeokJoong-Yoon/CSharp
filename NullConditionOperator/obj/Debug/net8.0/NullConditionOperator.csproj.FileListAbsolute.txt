@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\NullConditionOperator\bin\Debug\net8.0\NullConditionOperator.exe
+G:\IT\C#\thisCSharp\NullConditionOperator\bin\Debug\net8.0\NullConditionOperator.deps.json
+G:\IT\C#\thisCSharp\NullConditionOperator\bin\Debug\net8.0\NullConditionOperator.runtimeconfig.json
+G:\IT\C#\thisCSharp\NullConditionOperator\bin\Debug\net8.0\NullConditionOperator.dll
+G:\IT\C#\thisCSharp\NullConditionOperator\bin\Debug\net8.0\NullConditionOperator.pdb
+G:\IT\C#\thisCSharp\NullConditionOperator\obj\Debug\net8.0\NullConditionOperator.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\NullConditionOperator\obj\Debug\net8.0\NullConditionOperator.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\NullConditionOperator\obj\Debug\net8.0\NullConditionOperator.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\NullConditionOperator\obj\Debug\net8.0\NullConditionOperator.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\NullConditionOperator\obj\Debug\net8.0\NullConditionOperator.sourcelink.json
+G:\IT\C#\thisCSharp\NullConditionOperator\obj\Debug\net8.0\NullConditionOperator.dll
+G:\IT\C#\thisCSharp\NullConditionOperator\obj\Debug\net8.0\refint\NullConditionOperator.dll
+G:\IT\C#\thisCSharp\NullConditionOperator\obj\Debug\net8.0\NullConditionOperator.pdb
+G:\IT\C#\thisCSharp\NullConditionOperator\obj\Debug\net8.0\NullConditionOperator.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\NullConditionOperator\obj\Debug\net8.0\ref\NullConditionOperator.dll

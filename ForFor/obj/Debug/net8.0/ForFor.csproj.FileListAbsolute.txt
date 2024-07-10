@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\ForFor\bin\Debug\net8.0\ForFor.exe
+G:\IT\C#\thisCSharp\ForFor\bin\Debug\net8.0\ForFor.deps.json
+G:\IT\C#\thisCSharp\ForFor\bin\Debug\net8.0\ForFor.runtimeconfig.json
+G:\IT\C#\thisCSharp\ForFor\bin\Debug\net8.0\ForFor.dll
+G:\IT\C#\thisCSharp\ForFor\bin\Debug\net8.0\ForFor.pdb
+G:\IT\C#\thisCSharp\ForFor\obj\Debug\net8.0\ForFor.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\ForFor\obj\Debug\net8.0\ForFor.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\ForFor\obj\Debug\net8.0\ForFor.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\ForFor\obj\Debug\net8.0\ForFor.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\ForFor\obj\Debug\net8.0\ForFor.sourcelink.json
+G:\IT\C#\thisCSharp\ForFor\obj\Debug\net8.0\ForFor.dll
+G:\IT\C#\thisCSharp\ForFor\obj\Debug\net8.0\refint\ForFor.dll
+G:\IT\C#\thisCSharp\ForFor\obj\Debug\net8.0\ForFor.pdb
+G:\IT\C#\thisCSharp\ForFor\obj\Debug\net8.0\ForFor.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\ForFor\obj\Debug\net8.0\ref\ForFor.dll

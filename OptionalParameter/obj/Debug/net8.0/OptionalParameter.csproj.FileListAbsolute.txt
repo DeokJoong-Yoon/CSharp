@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\OptionalParameter\bin\Debug\net8.0\OptionalParameter.exe
+G:\IT\C#\thisCSharp\OptionalParameter\bin\Debug\net8.0\OptionalParameter.deps.json
+G:\IT\C#\thisCSharp\OptionalParameter\bin\Debug\net8.0\OptionalParameter.runtimeconfig.json
+G:\IT\C#\thisCSharp\OptionalParameter\bin\Debug\net8.0\OptionalParameter.dll
+G:\IT\C#\thisCSharp\OptionalParameter\bin\Debug\net8.0\OptionalParameter.pdb
+G:\IT\C#\thisCSharp\OptionalParameter\obj\Debug\net8.0\OptionalParameter.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\OptionalParameter\obj\Debug\net8.0\OptionalParameter.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\OptionalParameter\obj\Debug\net8.0\OptionalParameter.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\OptionalParameter\obj\Debug\net8.0\OptionalParameter.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\OptionalParameter\obj\Debug\net8.0\OptionalParameter.sourcelink.json
+G:\IT\C#\thisCSharp\OptionalParameter\obj\Debug\net8.0\OptionalParameter.dll
+G:\IT\C#\thisCSharp\OptionalParameter\obj\Debug\net8.0\refint\OptionalParameter.dll
+G:\IT\C#\thisCSharp\OptionalParameter\obj\Debug\net8.0\OptionalParameter.pdb
+G:\IT\C#\thisCSharp\OptionalParameter\obj\Debug\net8.0\OptionalParameter.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\OptionalParameter\obj\Debug\net8.0\ref\OptionalParameter.dll

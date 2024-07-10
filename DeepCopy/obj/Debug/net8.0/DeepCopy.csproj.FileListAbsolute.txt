@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\DeepCopy\bin\Debug\net8.0\DeepCopy.exe
+G:\IT\C#\thisCSharp\DeepCopy\bin\Debug\net8.0\DeepCopy.deps.json
+G:\IT\C#\thisCSharp\DeepCopy\bin\Debug\net8.0\DeepCopy.runtimeconfig.json
+G:\IT\C#\thisCSharp\DeepCopy\bin\Debug\net8.0\DeepCopy.dll
+G:\IT\C#\thisCSharp\DeepCopy\bin\Debug\net8.0\DeepCopy.pdb
+G:\IT\C#\thisCSharp\DeepCopy\obj\Debug\net8.0\DeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\DeepCopy\obj\Debug\net8.0\DeepCopy.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\DeepCopy\obj\Debug\net8.0\DeepCopy.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\DeepCopy\obj\Debug\net8.0\DeepCopy.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\DeepCopy\obj\Debug\net8.0\DeepCopy.sourcelink.json
+G:\IT\C#\thisCSharp\DeepCopy\obj\Debug\net8.0\DeepCopy.dll
+G:\IT\C#\thisCSharp\DeepCopy\obj\Debug\net8.0\refint\DeepCopy.dll
+G:\IT\C#\thisCSharp\DeepCopy\obj\Debug\net8.0\DeepCopy.pdb
+G:\IT\C#\thisCSharp\DeepCopy\obj\Debug\net8.0\DeepCopy.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\DeepCopy\obj\Debug\net8.0\ref\DeepCopy.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\StaticField\obj\Debug\net8.0\StaticField.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\StaticField\obj\Debug\net8.0\StaticField.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\StaticField\obj\Debug\net8.0\StaticField.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\StaticField\obj\Debug\net8.0\StaticField.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\StaticField\obj\Debug\net8.0\StaticField.sourcelink.json
+G:\IT\C#\thisCSharp\StaticField\bin\Debug\net8.0\StaticField.exe
+G:\IT\C#\thisCSharp\StaticField\bin\Debug\net8.0\StaticField.deps.json
+G:\IT\C#\thisCSharp\StaticField\bin\Debug\net8.0\StaticField.runtimeconfig.json
+G:\IT\C#\thisCSharp\StaticField\bin\Debug\net8.0\StaticField.dll
+G:\IT\C#\thisCSharp\StaticField\bin\Debug\net8.0\StaticField.pdb
+G:\IT\C#\thisCSharp\StaticField\obj\Debug\net8.0\StaticField.dll
+G:\IT\C#\thisCSharp\StaticField\obj\Debug\net8.0\refint\StaticField.dll
+G:\IT\C#\thisCSharp\StaticField\obj\Debug\net8.0\StaticField.pdb
+G:\IT\C#\thisCSharp\StaticField\obj\Debug\net8.0\StaticField.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\StaticField\obj\Debug\net8.0\ref\StaticField.dll

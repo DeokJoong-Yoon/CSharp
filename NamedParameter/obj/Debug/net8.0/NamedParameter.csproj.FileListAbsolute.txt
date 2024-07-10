@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\NamedParameter\bin\Debug\net8.0\NamedParameter.exe
+G:\IT\C#\thisCSharp\NamedParameter\bin\Debug\net8.0\NamedParameter.deps.json
+G:\IT\C#\thisCSharp\NamedParameter\bin\Debug\net8.0\NamedParameter.runtimeconfig.json
+G:\IT\C#\thisCSharp\NamedParameter\bin\Debug\net8.0\NamedParameter.dll
+G:\IT\C#\thisCSharp\NamedParameter\bin\Debug\net8.0\NamedParameter.pdb
+G:\IT\C#\thisCSharp\NamedParameter\obj\Debug\net8.0\NamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\NamedParameter\obj\Debug\net8.0\NamedParameter.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\NamedParameter\obj\Debug\net8.0\NamedParameter.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\NamedParameter\obj\Debug\net8.0\NamedParameter.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\NamedParameter\obj\Debug\net8.0\NamedParameter.sourcelink.json
+G:\IT\C#\thisCSharp\NamedParameter\obj\Debug\net8.0\NamedParameter.dll
+G:\IT\C#\thisCSharp\NamedParameter\obj\Debug\net8.0\refint\NamedParameter.dll
+G:\IT\C#\thisCSharp\NamedParameter\obj\Debug\net8.0\NamedParameter.pdb
+G:\IT\C#\thisCSharp\NamedParameter\obj\Debug\net8.0\NamedParameter.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\NamedParameter\obj\Debug\net8.0\ref\NamedParameter.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\LocalFunction\bin\Debug\net8.0\LocalFunction.exe
+G:\IT\C#\thisCSharp\LocalFunction\bin\Debug\net8.0\LocalFunction.deps.json
+G:\IT\C#\thisCSharp\LocalFunction\bin\Debug\net8.0\LocalFunction.runtimeconfig.json
+G:\IT\C#\thisCSharp\LocalFunction\bin\Debug\net8.0\LocalFunction.dll
+G:\IT\C#\thisCSharp\LocalFunction\bin\Debug\net8.0\LocalFunction.pdb
+G:\IT\C#\thisCSharp\LocalFunction\obj\Debug\net8.0\LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\LocalFunction\obj\Debug\net8.0\LocalFunction.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\LocalFunction\obj\Debug\net8.0\LocalFunction.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\LocalFunction\obj\Debug\net8.0\LocalFunction.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\LocalFunction\obj\Debug\net8.0\LocalFunction.sourcelink.json
+G:\IT\C#\thisCSharp\LocalFunction\obj\Debug\net8.0\LocalFunction.dll
+G:\IT\C#\thisCSharp\LocalFunction\obj\Debug\net8.0\refint\LocalFunction.dll
+G:\IT\C#\thisCSharp\LocalFunction\obj\Debug\net8.0\LocalFunction.pdb
+G:\IT\C#\thisCSharp\LocalFunction\obj\Debug\net8.0\LocalFunction.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\LocalFunction\obj\Debug\net8.0\ref\LocalFunction.dll

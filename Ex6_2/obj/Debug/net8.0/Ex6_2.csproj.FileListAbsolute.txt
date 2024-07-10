@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Ex6_2\bin\Debug\net8.0\Ex6_2.exe
+G:\IT\C#\thisCSharp\Ex6_2\bin\Debug\net8.0\Ex6_2.deps.json
+G:\IT\C#\thisCSharp\Ex6_2\bin\Debug\net8.0\Ex6_2.runtimeconfig.json
+G:\IT\C#\thisCSharp\Ex6_2\bin\Debug\net8.0\Ex6_2.dll
+G:\IT\C#\thisCSharp\Ex6_2\bin\Debug\net8.0\Ex6_2.pdb
+G:\IT\C#\thisCSharp\Ex6_2\obj\Debug\net8.0\Ex6_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Ex6_2\obj\Debug\net8.0\Ex6_2.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Ex6_2\obj\Debug\net8.0\Ex6_2.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Ex6_2\obj\Debug\net8.0\Ex6_2.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Ex6_2\obj\Debug\net8.0\Ex6_2.sourcelink.json
+G:\IT\C#\thisCSharp\Ex6_2\obj\Debug\net8.0\Ex6_2.dll
+G:\IT\C#\thisCSharp\Ex6_2\obj\Debug\net8.0\refint\Ex6_2.dll
+G:\IT\C#\thisCSharp\Ex6_2\obj\Debug\net8.0\Ex6_2.pdb
+G:\IT\C#\thisCSharp\Ex6_2\obj\Debug\net8.0\Ex6_2.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Ex6_2\obj\Debug\net8.0\ref\Ex6_2.dll

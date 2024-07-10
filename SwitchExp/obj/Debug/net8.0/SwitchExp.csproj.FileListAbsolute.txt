@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\SwitchExp\bin\Debug\net8.0\SwitchExp.exe
+G:\IT\C#\thisCSharp\SwitchExp\bin\Debug\net8.0\SwitchExp.deps.json
+G:\IT\C#\thisCSharp\SwitchExp\bin\Debug\net8.0\SwitchExp.runtimeconfig.json
+G:\IT\C#\thisCSharp\SwitchExp\bin\Debug\net8.0\SwitchExp.dll
+G:\IT\C#\thisCSharp\SwitchExp\bin\Debug\net8.0\SwitchExp.pdb
+G:\IT\C#\thisCSharp\SwitchExp\obj\Debug\net8.0\SwitchExp.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\SwitchExp\obj\Debug\net8.0\SwitchExp.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\SwitchExp\obj\Debug\net8.0\SwitchExp.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\SwitchExp\obj\Debug\net8.0\SwitchExp.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\SwitchExp\obj\Debug\net8.0\SwitchExp.sourcelink.json
+G:\IT\C#\thisCSharp\SwitchExp\obj\Debug\net8.0\SwitchExp.dll
+G:\IT\C#\thisCSharp\SwitchExp\obj\Debug\net8.0\refint\SwitchExp.dll
+G:\IT\C#\thisCSharp\SwitchExp\obj\Debug\net8.0\SwitchExp.pdb
+G:\IT\C#\thisCSharp\SwitchExp\obj\Debug\net8.0\SwitchExp.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\SwitchExp\obj\Debug\net8.0\ref\SwitchExp.dll

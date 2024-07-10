@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\RelationalOperator\bin\Debug\net8.0\RelationalOperator.exe
+G:\IT\C#\thisCSharp\RelationalOperator\bin\Debug\net8.0\RelationalOperator.deps.json
+G:\IT\C#\thisCSharp\RelationalOperator\bin\Debug\net8.0\RelationalOperator.runtimeconfig.json
+G:\IT\C#\thisCSharp\RelationalOperator\bin\Debug\net8.0\RelationalOperator.dll
+G:\IT\C#\thisCSharp\RelationalOperator\bin\Debug\net8.0\RelationalOperator.pdb
+G:\IT\C#\thisCSharp\RelationalOperator\obj\Debug\net8.0\RelationalOperator.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\RelationalOperator\obj\Debug\net8.0\RelationalOperator.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\RelationalOperator\obj\Debug\net8.0\RelationalOperator.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\RelationalOperator\obj\Debug\net8.0\RelationalOperator.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\RelationalOperator\obj\Debug\net8.0\RelationalOperator.sourcelink.json
+G:\IT\C#\thisCSharp\RelationalOperator\obj\Debug\net8.0\RelationalOperator.dll
+G:\IT\C#\thisCSharp\RelationalOperator\obj\Debug\net8.0\refint\RelationalOperator.dll
+G:\IT\C#\thisCSharp\RelationalOperator\obj\Debug\net8.0\RelationalOperator.pdb
+G:\IT\C#\thisCSharp\RelationalOperator\obj\Debug\net8.0\RelationalOperator.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\RelationalOperator\obj\Debug\net8.0\ref\RelationalOperator.dll

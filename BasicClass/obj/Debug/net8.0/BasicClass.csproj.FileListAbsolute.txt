@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\BasicClass\bin\Debug\net8.0\BasicClass.exe
+G:\IT\C#\thisCSharp\BasicClass\bin\Debug\net8.0\BasicClass.deps.json
+G:\IT\C#\thisCSharp\BasicClass\bin\Debug\net8.0\BasicClass.runtimeconfig.json
+G:\IT\C#\thisCSharp\BasicClass\bin\Debug\net8.0\BasicClass.dll
+G:\IT\C#\thisCSharp\BasicClass\bin\Debug\net8.0\BasicClass.pdb
+G:\IT\C#\thisCSharp\BasicClass\obj\Debug\net8.0\BasicClass.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\BasicClass\obj\Debug\net8.0\BasicClass.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\BasicClass\obj\Debug\net8.0\BasicClass.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\BasicClass\obj\Debug\net8.0\BasicClass.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\BasicClass\obj\Debug\net8.0\BasicClass.sourcelink.json
+G:\IT\C#\thisCSharp\BasicClass\obj\Debug\net8.0\BasicClass.dll
+G:\IT\C#\thisCSharp\BasicClass\obj\Debug\net8.0\refint\BasicClass.dll
+G:\IT\C#\thisCSharp\BasicClass\obj\Debug\net8.0\BasicClass.pdb
+G:\IT\C#\thisCSharp\BasicClass\obj\Debug\net8.0\BasicClass.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\BasicClass\obj\Debug\net8.0\ref\BasicClass.dll

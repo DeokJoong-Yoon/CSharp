@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\RectArea\bin\Debug\net8.0\RectArea.exe
+G:\IT\C#\thisCSharp\RectArea\bin\Debug\net8.0\RectArea.deps.json
+G:\IT\C#\thisCSharp\RectArea\bin\Debug\net8.0\RectArea.runtimeconfig.json
+G:\IT\C#\thisCSharp\RectArea\bin\Debug\net8.0\RectArea.dll
+G:\IT\C#\thisCSharp\RectArea\bin\Debug\net8.0\RectArea.pdb
+G:\IT\C#\thisCSharp\RectArea\obj\Debug\net8.0\RectArea.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\RectArea\obj\Debug\net8.0\RectArea.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\RectArea\obj\Debug\net8.0\RectArea.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\RectArea\obj\Debug\net8.0\RectArea.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\RectArea\obj\Debug\net8.0\RectArea.sourcelink.json
+G:\IT\C#\thisCSharp\RectArea\obj\Debug\net8.0\RectArea.dll
+G:\IT\C#\thisCSharp\RectArea\obj\Debug\net8.0\refint\RectArea.dll
+G:\IT\C#\thisCSharp\RectArea\obj\Debug\net8.0\RectArea.pdb
+G:\IT\C#\thisCSharp\RectArea\obj\Debug\net8.0\RectArea.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\RectArea\obj\Debug\net8.0\ref\RectArea.dll

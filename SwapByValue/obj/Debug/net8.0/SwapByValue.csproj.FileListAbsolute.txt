@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\SwapByValue\bin\Debug\net8.0\SwapByValue.exe
+G:\IT\C#\thisCSharp\SwapByValue\bin\Debug\net8.0\SwapByValue.deps.json
+G:\IT\C#\thisCSharp\SwapByValue\bin\Debug\net8.0\SwapByValue.runtimeconfig.json
+G:\IT\C#\thisCSharp\SwapByValue\bin\Debug\net8.0\SwapByValue.dll
+G:\IT\C#\thisCSharp\SwapByValue\bin\Debug\net8.0\SwapByValue.pdb
+G:\IT\C#\thisCSharp\SwapByValue\obj\Debug\net8.0\SwapByValue.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\SwapByValue\obj\Debug\net8.0\SwapByValue.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\SwapByValue\obj\Debug\net8.0\SwapByValue.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\SwapByValue\obj\Debug\net8.0\SwapByValue.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\SwapByValue\obj\Debug\net8.0\SwapByValue.sourcelink.json
+G:\IT\C#\thisCSharp\SwapByValue\obj\Debug\net8.0\SwapByValue.dll
+G:\IT\C#\thisCSharp\SwapByValue\obj\Debug\net8.0\refint\SwapByValue.dll
+G:\IT\C#\thisCSharp\SwapByValue\obj\Debug\net8.0\SwapByValue.pdb
+G:\IT\C#\thisCSharp\SwapByValue\obj\Debug\net8.0\SwapByValue.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\SwapByValue\obj\Debug\net8.0\ref\SwapByValue.dll

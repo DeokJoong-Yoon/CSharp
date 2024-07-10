@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\This\bin\Debug\net8.0\This.exe
+G:\IT\C#\thisCSharp\This\bin\Debug\net8.0\This.deps.json
+G:\IT\C#\thisCSharp\This\bin\Debug\net8.0\This.runtimeconfig.json
+G:\IT\C#\thisCSharp\This\bin\Debug\net8.0\This.dll
+G:\IT\C#\thisCSharp\This\bin\Debug\net8.0\This.pdb
+G:\IT\C#\thisCSharp\This\obj\Debug\net8.0\This.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\This\obj\Debug\net8.0\This.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\This\obj\Debug\net8.0\This.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\This\obj\Debug\net8.0\This.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\This\obj\Debug\net8.0\This.sourcelink.json
+G:\IT\C#\thisCSharp\This\obj\Debug\net8.0\This.dll
+G:\IT\C#\thisCSharp\This\obj\Debug\net8.0\refint\This.dll
+G:\IT\C#\thisCSharp\This\obj\Debug\net8.0\This.pdb
+G:\IT\C#\thisCSharp\This\obj\Debug\net8.0\This.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\This\obj\Debug\net8.0\ref\This.dll

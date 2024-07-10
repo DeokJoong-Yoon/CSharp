@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Break\bin\Debug\net8.0\Break.exe
+G:\IT\C#\thisCSharp\Break\bin\Debug\net8.0\Break.deps.json
+G:\IT\C#\thisCSharp\Break\bin\Debug\net8.0\Break.runtimeconfig.json
+G:\IT\C#\thisCSharp\Break\bin\Debug\net8.0\Break.dll
+G:\IT\C#\thisCSharp\Break\bin\Debug\net8.0\Break.pdb
+G:\IT\C#\thisCSharp\Break\obj\Debug\net8.0\Break.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Break\obj\Debug\net8.0\Break.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Break\obj\Debug\net8.0\Break.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Break\obj\Debug\net8.0\Break.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Break\obj\Debug\net8.0\Break.sourcelink.json
+G:\IT\C#\thisCSharp\Break\obj\Debug\net8.0\Break.dll
+G:\IT\C#\thisCSharp\Break\obj\Debug\net8.0\refint\Break.dll
+G:\IT\C#\thisCSharp\Break\obj\Debug\net8.0\Break.pdb
+G:\IT\C#\thisCSharp\Break\obj\Debug\net8.0\Break.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Break\obj\Debug\net8.0\ref\Break.dll

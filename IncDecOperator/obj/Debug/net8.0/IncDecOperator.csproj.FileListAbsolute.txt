@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\IncDecOperator\obj\Debug\net8.0\IncDecOperator.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\IncDecOperator\obj\Debug\net8.0\IncDecOperator.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\IncDecOperator\obj\Debug\net8.0\IncDecOperator.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\IncDecOperator\obj\Debug\net8.0\IncDecOperator.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\IncDecOperator\obj\Debug\net8.0\IncDecOperator.sourcelink.json
+G:\IT\C#\thisCSharp\IncDecOperator\bin\Debug\net8.0\IncDecOperator.exe
+G:\IT\C#\thisCSharp\IncDecOperator\bin\Debug\net8.0\IncDecOperator.deps.json
+G:\IT\C#\thisCSharp\IncDecOperator\bin\Debug\net8.0\IncDecOperator.runtimeconfig.json
+G:\IT\C#\thisCSharp\IncDecOperator\bin\Debug\net8.0\IncDecOperator.dll
+G:\IT\C#\thisCSharp\IncDecOperator\bin\Debug\net8.0\IncDecOperator.pdb
+G:\IT\C#\thisCSharp\IncDecOperator\obj\Debug\net8.0\IncDecOperator.dll
+G:\IT\C#\thisCSharp\IncDecOperator\obj\Debug\net8.0\refint\IncDecOperator.dll
+G:\IT\C#\thisCSharp\IncDecOperator\obj\Debug\net8.0\IncDecOperator.pdb
+G:\IT\C#\thisCSharp\IncDecOperator\obj\Debug\net8.0\IncDecOperator.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\IncDecOperator\obj\Debug\net8.0\ref\IncDecOperator.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\While\bin\Debug\net8.0\While.exe
+G:\IT\C#\thisCSharp\While\bin\Debug\net8.0\While.deps.json
+G:\IT\C#\thisCSharp\While\bin\Debug\net8.0\While.runtimeconfig.json
+G:\IT\C#\thisCSharp\While\bin\Debug\net8.0\While.dll
+G:\IT\C#\thisCSharp\While\bin\Debug\net8.0\While.pdb
+G:\IT\C#\thisCSharp\While\obj\Debug\net8.0\While.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\While\obj\Debug\net8.0\While.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\While\obj\Debug\net8.0\While.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\While\obj\Debug\net8.0\While.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\While\obj\Debug\net8.0\While.sourcelink.json
+G:\IT\C#\thisCSharp\While\obj\Debug\net8.0\While.dll
+G:\IT\C#\thisCSharp\While\obj\Debug\net8.0\refint\While.dll
+G:\IT\C#\thisCSharp\While\obj\Debug\net8.0\While.pdb
+G:\IT\C#\thisCSharp\While\obj\Debug\net8.0\While.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\While\obj\Debug\net8.0\ref\While.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\UsingParams\bin\Debug\net8.0\UsingParams.exe
+G:\IT\C#\thisCSharp\UsingParams\bin\Debug\net8.0\UsingParams.deps.json
+G:\IT\C#\thisCSharp\UsingParams\bin\Debug\net8.0\UsingParams.runtimeconfig.json
+G:\IT\C#\thisCSharp\UsingParams\bin\Debug\net8.0\UsingParams.dll
+G:\IT\C#\thisCSharp\UsingParams\bin\Debug\net8.0\UsingParams.pdb
+G:\IT\C#\thisCSharp\UsingParams\obj\Debug\net8.0\UsingParams.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\UsingParams\obj\Debug\net8.0\UsingParams.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\UsingParams\obj\Debug\net8.0\UsingParams.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\UsingParams\obj\Debug\net8.0\UsingParams.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\UsingParams\obj\Debug\net8.0\UsingParams.sourcelink.json
+G:\IT\C#\thisCSharp\UsingParams\obj\Debug\net8.0\UsingParams.dll
+G:\IT\C#\thisCSharp\UsingParams\obj\Debug\net8.0\refint\UsingParams.dll
+G:\IT\C#\thisCSharp\UsingParams\obj\Debug\net8.0\UsingParams.pdb
+G:\IT\C#\thisCSharp\UsingParams\obj\Debug\net8.0\UsingParams.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\UsingParams\obj\Debug\net8.0\ref\UsingParams.dll

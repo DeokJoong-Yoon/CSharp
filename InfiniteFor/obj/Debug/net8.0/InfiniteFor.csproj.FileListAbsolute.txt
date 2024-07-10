@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\InfiniteFor\bin\Debug\net8.0\InfiniteFor.exe
+G:\IT\C#\thisCSharp\InfiniteFor\bin\Debug\net8.0\InfiniteFor.deps.json
+G:\IT\C#\thisCSharp\InfiniteFor\bin\Debug\net8.0\InfiniteFor.runtimeconfig.json
+G:\IT\C#\thisCSharp\InfiniteFor\bin\Debug\net8.0\InfiniteFor.dll
+G:\IT\C#\thisCSharp\InfiniteFor\bin\Debug\net8.0\InfiniteFor.pdb
+G:\IT\C#\thisCSharp\InfiniteFor\obj\Debug\net8.0\InfiniteFor.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\InfiniteFor\obj\Debug\net8.0\InfiniteFor.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\InfiniteFor\obj\Debug\net8.0\InfiniteFor.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\InfiniteFor\obj\Debug\net8.0\InfiniteFor.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\InfiniteFor\obj\Debug\net8.0\InfiniteFor.sourcelink.json
+G:\IT\C#\thisCSharp\InfiniteFor\obj\Debug\net8.0\InfiniteFor.dll
+G:\IT\C#\thisCSharp\InfiniteFor\obj\Debug\net8.0\refint\InfiniteFor.dll
+G:\IT\C#\thisCSharp\InfiniteFor\obj\Debug\net8.0\InfiniteFor.pdb
+G:\IT\C#\thisCSharp\InfiniteFor\obj\Debug\net8.0\InfiniteFor.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\InfiniteFor\obj\Debug\net8.0\ref\InfiniteFor.dll

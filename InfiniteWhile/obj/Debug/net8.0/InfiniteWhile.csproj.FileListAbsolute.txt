@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\InfiniteWhile\bin\Debug\net8.0\InfiniteWhile.exe
+G:\IT\C#\thisCSharp\InfiniteWhile\bin\Debug\net8.0\InfiniteWhile.deps.json
+G:\IT\C#\thisCSharp\InfiniteWhile\bin\Debug\net8.0\InfiniteWhile.runtimeconfig.json
+G:\IT\C#\thisCSharp\InfiniteWhile\bin\Debug\net8.0\InfiniteWhile.dll
+G:\IT\C#\thisCSharp\InfiniteWhile\bin\Debug\net8.0\InfiniteWhile.pdb
+G:\IT\C#\thisCSharp\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.sourcelink.json
+G:\IT\C#\thisCSharp\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.dll
+G:\IT\C#\thisCSharp\InfiniteWhile\obj\Debug\net8.0\refint\InfiniteWhile.dll
+G:\IT\C#\thisCSharp\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.pdb
+G:\IT\C#\thisCSharp\InfiniteWhile\obj\Debug\net8.0\InfiniteWhile.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\InfiniteWhile\obj\Debug\net8.0\ref\InfiniteWhile.dll

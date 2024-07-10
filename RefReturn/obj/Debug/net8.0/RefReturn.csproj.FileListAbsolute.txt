@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\RefReturn\bin\Debug\net8.0\RefReturn.exe
+G:\IT\C#\thisCSharp\RefReturn\bin\Debug\net8.0\RefReturn.deps.json
+G:\IT\C#\thisCSharp\RefReturn\bin\Debug\net8.0\RefReturn.runtimeconfig.json
+G:\IT\C#\thisCSharp\RefReturn\bin\Debug\net8.0\RefReturn.dll
+G:\IT\C#\thisCSharp\RefReturn\bin\Debug\net8.0\RefReturn.pdb
+G:\IT\C#\thisCSharp\RefReturn\obj\Debug\net8.0\RefReturn.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\RefReturn\obj\Debug\net8.0\RefReturn.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\RefReturn\obj\Debug\net8.0\RefReturn.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\RefReturn\obj\Debug\net8.0\RefReturn.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\RefReturn\obj\Debug\net8.0\RefReturn.sourcelink.json
+G:\IT\C#\thisCSharp\RefReturn\obj\Debug\net8.0\RefReturn.dll
+G:\IT\C#\thisCSharp\RefReturn\obj\Debug\net8.0\refint\RefReturn.dll
+G:\IT\C#\thisCSharp\RefReturn\obj\Debug\net8.0\RefReturn.pdb
+G:\IT\C#\thisCSharp\RefReturn\obj\Debug\net8.0\RefReturn.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\RefReturn\obj\Debug\net8.0\ref\RefReturn.dll

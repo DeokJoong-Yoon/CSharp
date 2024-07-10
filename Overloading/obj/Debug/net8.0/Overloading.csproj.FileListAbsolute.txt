@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Overloading\bin\Debug\net8.0\Overloading.exe
+G:\IT\C#\thisCSharp\Overloading\bin\Debug\net8.0\Overloading.deps.json
+G:\IT\C#\thisCSharp\Overloading\bin\Debug\net8.0\Overloading.runtimeconfig.json
+G:\IT\C#\thisCSharp\Overloading\bin\Debug\net8.0\Overloading.dll
+G:\IT\C#\thisCSharp\Overloading\bin\Debug\net8.0\Overloading.pdb
+G:\IT\C#\thisCSharp\Overloading\obj\Debug\net8.0\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Overloading\obj\Debug\net8.0\Overloading.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Overloading\obj\Debug\net8.0\Overloading.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Overloading\obj\Debug\net8.0\Overloading.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Overloading\obj\Debug\net8.0\Overloading.sourcelink.json
+G:\IT\C#\thisCSharp\Overloading\obj\Debug\net8.0\Overloading.dll
+G:\IT\C#\thisCSharp\Overloading\obj\Debug\net8.0\refint\Overloading.dll
+G:\IT\C#\thisCSharp\Overloading\obj\Debug\net8.0\Overloading.pdb
+G:\IT\C#\thisCSharp\Overloading\obj\Debug\net8.0\Overloading.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Overloading\obj\Debug\net8.0\ref\Overloading.dll

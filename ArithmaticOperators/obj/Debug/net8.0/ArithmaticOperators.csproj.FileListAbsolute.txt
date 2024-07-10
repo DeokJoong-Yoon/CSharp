@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\ArithmaticOperators\bin\Debug\net8.0\ArithmaticOperators.exe
+G:\IT\C#\thisCSharp\ArithmaticOperators\bin\Debug\net8.0\ArithmaticOperators.deps.json
+G:\IT\C#\thisCSharp\ArithmaticOperators\bin\Debug\net8.0\ArithmaticOperators.runtimeconfig.json
+G:\IT\C#\thisCSharp\ArithmaticOperators\bin\Debug\net8.0\ArithmaticOperators.dll
+G:\IT\C#\thisCSharp\ArithmaticOperators\bin\Debug\net8.0\ArithmaticOperators.pdb
+G:\IT\C#\thisCSharp\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.sourcelink.json
+G:\IT\C#\thisCSharp\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.dll
+G:\IT\C#\thisCSharp\ArithmaticOperators\obj\Debug\net8.0\refint\ArithmaticOperators.dll
+G:\IT\C#\thisCSharp\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.pdb
+G:\IT\C#\thisCSharp\ArithmaticOperators\obj\Debug\net8.0\ArithmaticOperators.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\ArithmaticOperators\obj\Debug\net8.0\ref\ArithmaticOperators.dll

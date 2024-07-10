@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\StringSlice\bin\Debug\net8.0\StringSlice.exe
+G:\IT\C#\thisCSharp\StringSlice\bin\Debug\net8.0\StringSlice.deps.json
+G:\IT\C#\thisCSharp\StringSlice\bin\Debug\net8.0\StringSlice.runtimeconfig.json
+G:\IT\C#\thisCSharp\StringSlice\bin\Debug\net8.0\StringSlice.dll
+G:\IT\C#\thisCSharp\StringSlice\bin\Debug\net8.0\StringSlice.pdb
+G:\IT\C#\thisCSharp\StringSlice\obj\Debug\net8.0\StringSlice.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\StringSlice\obj\Debug\net8.0\StringSlice.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\StringSlice\obj\Debug\net8.0\StringSlice.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\StringSlice\obj\Debug\net8.0\StringSlice.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\StringSlice\obj\Debug\net8.0\StringSlice.sourcelink.json
+G:\IT\C#\thisCSharp\StringSlice\obj\Debug\net8.0\StringSlice.dll
+G:\IT\C#\thisCSharp\StringSlice\obj\Debug\net8.0\refint\StringSlice.dll
+G:\IT\C#\thisCSharp\StringSlice\obj\Debug\net8.0\StringSlice.pdb
+G:\IT\C#\thisCSharp\StringSlice\obj\Debug\net8.0\StringSlice.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\StringSlice\obj\Debug\net8.0\ref\StringSlice.dll

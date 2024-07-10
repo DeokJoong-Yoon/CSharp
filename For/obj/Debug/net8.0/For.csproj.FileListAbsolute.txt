@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\For\bin\Debug\net8.0\For.exe
+G:\IT\C#\thisCSharp\For\bin\Debug\net8.0\For.deps.json
+G:\IT\C#\thisCSharp\For\bin\Debug\net8.0\For.runtimeconfig.json
+G:\IT\C#\thisCSharp\For\bin\Debug\net8.0\For.dll
+G:\IT\C#\thisCSharp\For\bin\Debug\net8.0\For.pdb
+G:\IT\C#\thisCSharp\For\obj\Debug\net8.0\For.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\For\obj\Debug\net8.0\For.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\For\obj\Debug\net8.0\For.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\For\obj\Debug\net8.0\For.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\For\obj\Debug\net8.0\For.sourcelink.json
+G:\IT\C#\thisCSharp\For\obj\Debug\net8.0\For.dll
+G:\IT\C#\thisCSharp\For\obj\Debug\net8.0\refint\For.dll
+G:\IT\C#\thisCSharp\For\obj\Debug\net8.0\For.pdb
+G:\IT\C#\thisCSharp\For\obj\Debug\net8.0\For.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\For\obj\Debug\net8.0\ref\For.dll

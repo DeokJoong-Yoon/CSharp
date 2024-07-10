@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\SwapByRef\bin\Debug\net8.0\SwapByRef.exe
+G:\IT\C#\thisCSharp\SwapByRef\bin\Debug\net8.0\SwapByRef.deps.json
+G:\IT\C#\thisCSharp\SwapByRef\bin\Debug\net8.0\SwapByRef.runtimeconfig.json
+G:\IT\C#\thisCSharp\SwapByRef\bin\Debug\net8.0\SwapByRef.dll
+G:\IT\C#\thisCSharp\SwapByRef\bin\Debug\net8.0\SwapByRef.pdb
+G:\IT\C#\thisCSharp\SwapByRef\obj\Debug\net8.0\SwapByRef.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\SwapByRef\obj\Debug\net8.0\SwapByRef.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\SwapByRef\obj\Debug\net8.0\SwapByRef.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\SwapByRef\obj\Debug\net8.0\SwapByRef.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\SwapByRef\obj\Debug\net8.0\SwapByRef.sourcelink.json
+G:\IT\C#\thisCSharp\SwapByRef\obj\Debug\net8.0\SwapByRef.dll
+G:\IT\C#\thisCSharp\SwapByRef\obj\Debug\net8.0\refint\SwapByRef.dll
+G:\IT\C#\thisCSharp\SwapByRef\obj\Debug\net8.0\SwapByRef.pdb
+G:\IT\C#\thisCSharp\SwapByRef\obj\Debug\net8.0\SwapByRef.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\SwapByRef\obj\Debug\net8.0\ref\SwapByRef.dll

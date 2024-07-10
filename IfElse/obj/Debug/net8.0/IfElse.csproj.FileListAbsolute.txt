@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\IfElse\bin\Debug\net8.0\IfElse.exe
+G:\IT\C#\thisCSharp\IfElse\bin\Debug\net8.0\IfElse.deps.json
+G:\IT\C#\thisCSharp\IfElse\bin\Debug\net8.0\IfElse.runtimeconfig.json
+G:\IT\C#\thisCSharp\IfElse\bin\Debug\net8.0\IfElse.dll
+G:\IT\C#\thisCSharp\IfElse\bin\Debug\net8.0\IfElse.pdb
+G:\IT\C#\thisCSharp\IfElse\obj\Debug\net8.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\IfElse\obj\Debug\net8.0\IfElse.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\IfElse\obj\Debug\net8.0\IfElse.sourcelink.json
+G:\IT\C#\thisCSharp\IfElse\obj\Debug\net8.0\IfElse.dll
+G:\IT\C#\thisCSharp\IfElse\obj\Debug\net8.0\refint\IfElse.dll
+G:\IT\C#\thisCSharp\IfElse\obj\Debug\net8.0\IfElse.pdb
+G:\IT\C#\thisCSharp\IfElse\obj\Debug\net8.0\IfElse.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\IfElse\obj\Debug\net8.0\ref\IfElse.dll
