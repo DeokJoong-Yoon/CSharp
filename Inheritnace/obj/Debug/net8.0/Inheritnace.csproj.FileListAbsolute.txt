@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Inheritnace\obj\Debug\net8.0\Inheritnace.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Inheritnace\obj\Debug\net8.0\Inheritnace.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Inheritnace\obj\Debug\net8.0\Inheritnace.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Inheritnace\obj\Debug\net8.0\Inheritnace.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Inheritnace\obj\Debug\net8.0\Inheritnace.sourcelink.json
+G:\IT\C#\thisCSharp\Inheritnace\bin\Debug\net8.0\Inheritnace.exe
+G:\IT\C#\thisCSharp\Inheritnace\bin\Debug\net8.0\Inheritnace.deps.json
+G:\IT\C#\thisCSharp\Inheritnace\bin\Debug\net8.0\Inheritnace.runtimeconfig.json
+G:\IT\C#\thisCSharp\Inheritnace\bin\Debug\net8.0\Inheritnace.dll
+G:\IT\C#\thisCSharp\Inheritnace\bin\Debug\net8.0\Inheritnace.pdb
+G:\IT\C#\thisCSharp\Inheritnace\obj\Debug\net8.0\Inheritnace.dll
+G:\IT\C#\thisCSharp\Inheritnace\obj\Debug\net8.0\refint\Inheritnace.dll
+G:\IT\C#\thisCSharp\Inheritnace\obj\Debug\net8.0\Inheritnace.pdb
+G:\IT\C#\thisCSharp\Inheritnace\obj\Debug\net8.0\Inheritnace.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Inheritnace\obj\Debug\net8.0\ref\Inheritnace.dll
