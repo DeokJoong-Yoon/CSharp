@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Overriding\bin\Debug\net8.0\Overriding.exe
+G:\IT\C#\thisCSharp\Overriding\bin\Debug\net8.0\Overriding.deps.json
+G:\IT\C#\thisCSharp\Overriding\bin\Debug\net8.0\Overriding.runtimeconfig.json
+G:\IT\C#\thisCSharp\Overriding\bin\Debug\net8.0\Overriding.dll
+G:\IT\C#\thisCSharp\Overriding\bin\Debug\net8.0\Overriding.pdb
+G:\IT\C#\thisCSharp\Overriding\obj\Debug\net8.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Overriding\obj\Debug\net8.0\Overriding.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Overriding\obj\Debug\net8.0\Overriding.sourcelink.json
+G:\IT\C#\thisCSharp\Overriding\obj\Debug\net8.0\Overriding.dll
+G:\IT\C#\thisCSharp\Overriding\obj\Debug\net8.0\refint\Overriding.dll
+G:\IT\C#\thisCSharp\Overriding\obj\Debug\net8.0\Overriding.pdb
+G:\IT\C#\thisCSharp\Overriding\obj\Debug\net8.0\Overriding.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Overriding\obj\Debug\net8.0\ref\Overriding.dll

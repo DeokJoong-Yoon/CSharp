@@ -1,0 +1,5 @@
+G:\IT\C#\thisCSharp\ReadonlyFields\obj\Debug\net8.0\ReadonlyFields.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\ReadonlyFields\obj\Debug\net8.0\ReadonlyFields.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\ReadonlyFields\obj\Debug\net8.0\ReadonlyFields.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\ReadonlyFields\obj\Debug\net8.0\ReadonlyFields.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\ReadonlyFields\obj\Debug\net8.0\ReadonlyFields.sourcelink.json
