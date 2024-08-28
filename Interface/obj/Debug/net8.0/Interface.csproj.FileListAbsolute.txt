@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Interface\bin\Debug\net8.0\Interface.exe
+G:\IT\C#\thisCSharp\Interface\bin\Debug\net8.0\Interface.deps.json
+G:\IT\C#\thisCSharp\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+G:\IT\C#\thisCSharp\Interface\bin\Debug\net8.0\Interface.dll
+G:\IT\C#\thisCSharp\Interface\bin\Debug\net8.0\Interface.pdb
+G:\IT\C#\thisCSharp\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Interface\obj\Debug\net8.0\Interface.sourcelink.json
+G:\IT\C#\thisCSharp\Interface\obj\Debug\net8.0\Interface.dll
+G:\IT\C#\thisCSharp\Interface\obj\Debug\net8.0\refint\Interface.dll
+G:\IT\C#\thisCSharp\Interface\obj\Debug\net8.0\Interface.pdb
+G:\IT\C#\thisCSharp\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Interface\obj\Debug\net8.0\ref\Interface.dll

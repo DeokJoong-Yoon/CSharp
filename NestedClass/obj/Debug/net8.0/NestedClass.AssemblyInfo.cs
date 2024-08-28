@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NestedClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+377d8f81f205d1fdcff9d32363638f349e4814aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a7cac48cd2ca093c7d86905e6deb5de3fce2ea4")]
 [assembly: System.Reflection.AssemblyProductAttribute("NestedClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NestedClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\bin\Debug\net8.0\MultiInterfaceInheritance.exe
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\bin\Debug\net8.0\MultiInterfaceInheritance.deps.json
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\bin\Debug\net8.0\MultiInterfaceInheritance.runtimeconfig.json
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\bin\Debug\net8.0\MultiInterfaceInheritance.dll
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\bin\Debug\net8.0\MultiInterfaceInheritance.pdb
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.sourcelink.json
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.dll
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\obj\Debug\net8.0\refint\MultiInterfaceInheritance.dll
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.pdb
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\obj\Debug\net8.0\MultiInterfaceInheritance.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\MultiInterfaceInheritance\obj\Debug\net8.0\ref\MultiInterfaceInheritance.dll

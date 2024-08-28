@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\DerivedInterface\bin\Debug\net8.0\DerivedInterface.exe
+G:\IT\C#\thisCSharp\DerivedInterface\bin\Debug\net8.0\DerivedInterface.deps.json
+G:\IT\C#\thisCSharp\DerivedInterface\bin\Debug\net8.0\DerivedInterface.runtimeconfig.json
+G:\IT\C#\thisCSharp\DerivedInterface\bin\Debug\net8.0\DerivedInterface.dll
+G:\IT\C#\thisCSharp\DerivedInterface\bin\Debug\net8.0\DerivedInterface.pdb
+G:\IT\C#\thisCSharp\DerivedInterface\obj\Debug\net8.0\DerivedInterface.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\DerivedInterface\obj\Debug\net8.0\DerivedInterface.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\DerivedInterface\obj\Debug\net8.0\DerivedInterface.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\DerivedInterface\obj\Debug\net8.0\DerivedInterface.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\DerivedInterface\obj\Debug\net8.0\DerivedInterface.sourcelink.json
+G:\IT\C#\thisCSharp\DerivedInterface\obj\Debug\net8.0\DerivedInterface.dll
+G:\IT\C#\thisCSharp\DerivedInterface\obj\Debug\net8.0\refint\DerivedInterface.dll
+G:\IT\C#\thisCSharp\DerivedInterface\obj\Debug\net8.0\DerivedInterface.pdb
+G:\IT\C#\thisCSharp\DerivedInterface\obj\Debug\net8.0\DerivedInterface.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\DerivedInterface\obj\Debug\net8.0\ref\DerivedInterface.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\InitOnly\bin\Debug\net8.0\InitOnly.exe
+G:\IT\C#\thisCSharp\InitOnly\bin\Debug\net8.0\InitOnly.deps.json
+G:\IT\C#\thisCSharp\InitOnly\bin\Debug\net8.0\InitOnly.runtimeconfig.json
+G:\IT\C#\thisCSharp\InitOnly\bin\Debug\net8.0\InitOnly.dll
+G:\IT\C#\thisCSharp\InitOnly\bin\Debug\net8.0\InitOnly.pdb
+G:\IT\C#\thisCSharp\InitOnly\obj\Debug\net8.0\InitOnly.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\InitOnly\obj\Debug\net8.0\InitOnly.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\InitOnly\obj\Debug\net8.0\InitOnly.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\InitOnly\obj\Debug\net8.0\InitOnly.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\InitOnly\obj\Debug\net8.0\InitOnly.sourcelink.json
+G:\IT\C#\thisCSharp\InitOnly\obj\Debug\net8.0\InitOnly.dll
+G:\IT\C#\thisCSharp\InitOnly\obj\Debug\net8.0\refint\InitOnly.dll
+G:\IT\C#\thisCSharp\InitOnly\obj\Debug\net8.0\InitOnly.pdb
+G:\IT\C#\thisCSharp\InitOnly\obj\Debug\net8.0\InitOnly.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\InitOnly\obj\Debug\net8.0\ref\InitOnly.dll

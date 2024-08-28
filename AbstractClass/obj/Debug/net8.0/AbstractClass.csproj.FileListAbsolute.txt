@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\AbstractClass\bin\Debug\net8.0\AbstractClass.exe
+G:\IT\C#\thisCSharp\AbstractClass\bin\Debug\net8.0\AbstractClass.deps.json
+G:\IT\C#\thisCSharp\AbstractClass\bin\Debug\net8.0\AbstractClass.runtimeconfig.json
+G:\IT\C#\thisCSharp\AbstractClass\bin\Debug\net8.0\AbstractClass.dll
+G:\IT\C#\thisCSharp\AbstractClass\bin\Debug\net8.0\AbstractClass.pdb
+G:\IT\C#\thisCSharp\AbstractClass\obj\Debug\net8.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\AbstractClass\obj\Debug\net8.0\AbstractClass.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\AbstractClass\obj\Debug\net8.0\AbstractClass.sourcelink.json
+G:\IT\C#\thisCSharp\AbstractClass\obj\Debug\net8.0\AbstractClass.dll
+G:\IT\C#\thisCSharp\AbstractClass\obj\Debug\net8.0\refint\AbstractClass.dll
+G:\IT\C#\thisCSharp\AbstractClass\obj\Debug\net8.0\AbstractClass.pdb
+G:\IT\C#\thisCSharp\AbstractClass\obj\Debug\net8.0\AbstractClass.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\AbstractClass\obj\Debug\net8.0\ref\AbstractClass.dll

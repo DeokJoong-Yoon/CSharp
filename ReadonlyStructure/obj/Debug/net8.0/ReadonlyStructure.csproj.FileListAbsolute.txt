@@ -1,0 +1,5 @@
+G:\IT\C#\thisCSharp\ReadonlyStructure\obj\Debug\net8.0\ReadonlyStructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\ReadonlyStructure\obj\Debug\net8.0\ReadonlyStructure.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\ReadonlyStructure\obj\Debug\net8.0\ReadonlyStructure.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\ReadonlyStructure\obj\Debug\net8.0\ReadonlyStructure.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\ReadonlyStructure\obj\Debug\net8.0\ReadonlyStructure.sourcelink.json

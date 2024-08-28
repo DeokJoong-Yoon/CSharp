@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.exe
+G:\IT\C#\thisCSharp\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.deps.json
+G:\IT\C#\thisCSharp\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.runtimeconfig.json
+G:\IT\C#\thisCSharp\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.dll
+G:\IT\C#\thisCSharp\AutoImplementedProperty\bin\Debug\net8.0\AutoImplementedProperty.pdb
+G:\IT\C#\thisCSharp\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.sourcelink.json
+G:\IT\C#\thisCSharp\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.dll
+G:\IT\C#\thisCSharp\AutoImplementedProperty\obj\Debug\net8.0\refint\AutoImplementedProperty.dll
+G:\IT\C#\thisCSharp\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.pdb
+G:\IT\C#\thisCSharp\AutoImplementedProperty\obj\Debug\net8.0\AutoImplementedProperty.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\AutoImplementedProperty\obj\Debug\net8.0\ref\AutoImplementedProperty.dll

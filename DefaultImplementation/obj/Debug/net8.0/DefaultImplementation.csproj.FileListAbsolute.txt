@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\DefaultImplementation\bin\Debug\net8.0\DefaultImplementation.exe
+G:\IT\C#\thisCSharp\DefaultImplementation\bin\Debug\net8.0\DefaultImplementation.deps.json
+G:\IT\C#\thisCSharp\DefaultImplementation\bin\Debug\net8.0\DefaultImplementation.runtimeconfig.json
+G:\IT\C#\thisCSharp\DefaultImplementation\bin\Debug\net8.0\DefaultImplementation.dll
+G:\IT\C#\thisCSharp\DefaultImplementation\bin\Debug\net8.0\DefaultImplementation.pdb
+G:\IT\C#\thisCSharp\DefaultImplementation\obj\Debug\net8.0\DefaultImplementation.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\DefaultImplementation\obj\Debug\net8.0\DefaultImplementation.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\DefaultImplementation\obj\Debug\net8.0\DefaultImplementation.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\DefaultImplementation\obj\Debug\net8.0\DefaultImplementation.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\DefaultImplementation\obj\Debug\net8.0\DefaultImplementation.sourcelink.json
+G:\IT\C#\thisCSharp\DefaultImplementation\obj\Debug\net8.0\DefaultImplementation.dll
+G:\IT\C#\thisCSharp\DefaultImplementation\obj\Debug\net8.0\refint\DefaultImplementation.dll
+G:\IT\C#\thisCSharp\DefaultImplementation\obj\Debug\net8.0\DefaultImplementation.pdb
+G:\IT\C#\thisCSharp\DefaultImplementation\obj\Debug\net8.0\DefaultImplementation.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\DefaultImplementation\obj\Debug\net8.0\ref\DefaultImplementation.dll

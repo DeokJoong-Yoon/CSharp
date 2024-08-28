@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\ConstructorWithProperty\bin\Debug\net8.0\ConstructorWithProperty.exe
+G:\IT\C#\thisCSharp\ConstructorWithProperty\bin\Debug\net8.0\ConstructorWithProperty.deps.json
+G:\IT\C#\thisCSharp\ConstructorWithProperty\bin\Debug\net8.0\ConstructorWithProperty.runtimeconfig.json
+G:\IT\C#\thisCSharp\ConstructorWithProperty\bin\Debug\net8.0\ConstructorWithProperty.dll
+G:\IT\C#\thisCSharp\ConstructorWithProperty\bin\Debug\net8.0\ConstructorWithProperty.pdb
+G:\IT\C#\thisCSharp\ConstructorWithProperty\obj\Debug\net8.0\ConstructorWithProperty.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\ConstructorWithProperty\obj\Debug\net8.0\ConstructorWithProperty.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\ConstructorWithProperty\obj\Debug\net8.0\ConstructorWithProperty.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\ConstructorWithProperty\obj\Debug\net8.0\ConstructorWithProperty.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\ConstructorWithProperty\obj\Debug\net8.0\ConstructorWithProperty.sourcelink.json
+G:\IT\C#\thisCSharp\ConstructorWithProperty\obj\Debug\net8.0\ConstructorWithProperty.dll
+G:\IT\C#\thisCSharp\ConstructorWithProperty\obj\Debug\net8.0\refint\ConstructorWithProperty.dll
+G:\IT\C#\thisCSharp\ConstructorWithProperty\obj\Debug\net8.0\ConstructorWithProperty.pdb
+G:\IT\C#\thisCSharp\ConstructorWithProperty\obj\Debug\net8.0\ConstructorWithProperty.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\ConstructorWithProperty\obj\Debug\net8.0\ref\ConstructorWithProperty.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Tuple\bin\Debug\net8.0\Tuple.exe
+G:\IT\C#\thisCSharp\Tuple\bin\Debug\net8.0\Tuple.deps.json
+G:\IT\C#\thisCSharp\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+G:\IT\C#\thisCSharp\Tuple\bin\Debug\net8.0\Tuple.dll
+G:\IT\C#\thisCSharp\Tuple\bin\Debug\net8.0\Tuple.pdb
+G:\IT\C#\thisCSharp\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Tuple\obj\Debug\net8.0\Tuple.sourcelink.json
+G:\IT\C#\thisCSharp\Tuple\obj\Debug\net8.0\Tuple.dll
+G:\IT\C#\thisCSharp\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+G:\IT\C#\thisCSharp\Tuple\obj\Debug\net8.0\Tuple.pdb
+G:\IT\C#\thisCSharp\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Tuple\obj\Debug\net8.0\ref\Tuple.dll

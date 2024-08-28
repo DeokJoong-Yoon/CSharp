@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\MyExtension\bin\Debug\net8.0\MyExtension.exe
+G:\IT\C#\thisCSharp\MyExtension\bin\Debug\net8.0\MyExtension.deps.json
+G:\IT\C#\thisCSharp\MyExtension\bin\Debug\net8.0\MyExtension.runtimeconfig.json
+G:\IT\C#\thisCSharp\MyExtension\bin\Debug\net8.0\MyExtension.dll
+G:\IT\C#\thisCSharp\MyExtension\bin\Debug\net8.0\MyExtension.pdb
+G:\IT\C#\thisCSharp\MyExtension\obj\Debug\net8.0\MyExtension.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\MyExtension\obj\Debug\net8.0\MyExtension.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\MyExtension\obj\Debug\net8.0\MyExtension.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\MyExtension\obj\Debug\net8.0\MyExtension.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\MyExtension\obj\Debug\net8.0\MyExtension.sourcelink.json
+G:\IT\C#\thisCSharp\MyExtension\obj\Debug\net8.0\MyExtension.dll
+G:\IT\C#\thisCSharp\MyExtension\obj\Debug\net8.0\refint\MyExtension.dll
+G:\IT\C#\thisCSharp\MyExtension\obj\Debug\net8.0\MyExtension.pdb
+G:\IT\C#\thisCSharp\MyExtension\obj\Debug\net8.0\MyExtension.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\MyExtension\obj\Debug\net8.0\ref\MyExtension.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Property\bin\Debug\net8.0\Property.exe
+G:\IT\C#\thisCSharp\Property\bin\Debug\net8.0\Property.deps.json
+G:\IT\C#\thisCSharp\Property\bin\Debug\net8.0\Property.runtimeconfig.json
+G:\IT\C#\thisCSharp\Property\bin\Debug\net8.0\Property.dll
+G:\IT\C#\thisCSharp\Property\bin\Debug\net8.0\Property.pdb
+G:\IT\C#\thisCSharp\Property\obj\Debug\net8.0\Property.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Property\obj\Debug\net8.0\Property.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Property\obj\Debug\net8.0\Property.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Property\obj\Debug\net8.0\Property.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Property\obj\Debug\net8.0\Property.sourcelink.json
+G:\IT\C#\thisCSharp\Property\obj\Debug\net8.0\Property.dll
+G:\IT\C#\thisCSharp\Property\obj\Debug\net8.0\refint\Property.dll
+G:\IT\C#\thisCSharp\Property\obj\Debug\net8.0\Property.pdb
+G:\IT\C#\thisCSharp\Property\obj\Debug\net8.0\Property.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Property\obj\Debug\net8.0\ref\Property.dll

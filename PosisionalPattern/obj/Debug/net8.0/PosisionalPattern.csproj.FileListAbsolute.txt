@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\PosisionalPattern\bin\Debug\net8.0\PosisionalPattern.exe
+G:\IT\C#\thisCSharp\PosisionalPattern\bin\Debug\net8.0\PosisionalPattern.deps.json
+G:\IT\C#\thisCSharp\PosisionalPattern\bin\Debug\net8.0\PosisionalPattern.runtimeconfig.json
+G:\IT\C#\thisCSharp\PosisionalPattern\bin\Debug\net8.0\PosisionalPattern.dll
+G:\IT\C#\thisCSharp\PosisionalPattern\bin\Debug\net8.0\PosisionalPattern.pdb
+G:\IT\C#\thisCSharp\PosisionalPattern\obj\Debug\net8.0\PosisionalPattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\PosisionalPattern\obj\Debug\net8.0\PosisionalPattern.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\PosisionalPattern\obj\Debug\net8.0\PosisionalPattern.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\PosisionalPattern\obj\Debug\net8.0\PosisionalPattern.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\PosisionalPattern\obj\Debug\net8.0\PosisionalPattern.sourcelink.json
+G:\IT\C#\thisCSharp\PosisionalPattern\obj\Debug\net8.0\PosisionalPattern.dll
+G:\IT\C#\thisCSharp\PosisionalPattern\obj\Debug\net8.0\refint\PosisionalPattern.dll
+G:\IT\C#\thisCSharp\PosisionalPattern\obj\Debug\net8.0\PosisionalPattern.pdb
+G:\IT\C#\thisCSharp\PosisionalPattern\obj\Debug\net8.0\PosisionalPattern.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\PosisionalPattern\obj\Debug\net8.0\ref\PosisionalPattern.dll
