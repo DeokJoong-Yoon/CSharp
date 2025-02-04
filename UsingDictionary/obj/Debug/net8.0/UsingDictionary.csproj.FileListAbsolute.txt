@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\UsingDictionary\bin\Debug\net8.0\UsingDictionary.exe
+G:\IT\C#\thisCSharp\UsingDictionary\bin\Debug\net8.0\UsingDictionary.deps.json
+G:\IT\C#\thisCSharp\UsingDictionary\bin\Debug\net8.0\UsingDictionary.runtimeconfig.json
+G:\IT\C#\thisCSharp\UsingDictionary\bin\Debug\net8.0\UsingDictionary.dll
+G:\IT\C#\thisCSharp\UsingDictionary\bin\Debug\net8.0\UsingDictionary.pdb
+G:\IT\C#\thisCSharp\UsingDictionary\obj\Debug\net8.0\UsingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\UsingDictionary\obj\Debug\net8.0\UsingDictionary.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\UsingDictionary\obj\Debug\net8.0\UsingDictionary.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\UsingDictionary\obj\Debug\net8.0\UsingDictionary.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\UsingDictionary\obj\Debug\net8.0\UsingDictionary.sourcelink.json
+G:\IT\C#\thisCSharp\UsingDictionary\obj\Debug\net8.0\UsingDictionary.dll
+G:\IT\C#\thisCSharp\UsingDictionary\obj\Debug\net8.0\refint\UsingDictionary.dll
+G:\IT\C#\thisCSharp\UsingDictionary\obj\Debug\net8.0\UsingDictionary.pdb
+G:\IT\C#\thisCSharp\UsingDictionary\obj\Debug\net8.0\UsingDictionary.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\UsingDictionary\obj\Debug\net8.0\ref\UsingDictionary.dll

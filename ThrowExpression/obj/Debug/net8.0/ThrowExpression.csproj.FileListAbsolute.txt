@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\ThrowExpression\bin\Debug\net8.0\ThrowExpression.exe
+G:\IT\C#\thisCSharp\ThrowExpression\bin\Debug\net8.0\ThrowExpression.deps.json
+G:\IT\C#\thisCSharp\ThrowExpression\bin\Debug\net8.0\ThrowExpression.runtimeconfig.json
+G:\IT\C#\thisCSharp\ThrowExpression\bin\Debug\net8.0\ThrowExpression.dll
+G:\IT\C#\thisCSharp\ThrowExpression\bin\Debug\net8.0\ThrowExpression.pdb
+G:\IT\C#\thisCSharp\ThrowExpression\obj\Debug\net8.0\ThrowExpression.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\ThrowExpression\obj\Debug\net8.0\ThrowExpression.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\ThrowExpression\obj\Debug\net8.0\ThrowExpression.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\ThrowExpression\obj\Debug\net8.0\ThrowExpression.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\ThrowExpression\obj\Debug\net8.0\ThrowExpression.sourcelink.json
+G:\IT\C#\thisCSharp\ThrowExpression\obj\Debug\net8.0\ThrowExpression.dll
+G:\IT\C#\thisCSharp\ThrowExpression\obj\Debug\net8.0\refint\ThrowExpression.dll
+G:\IT\C#\thisCSharp\ThrowExpression\obj\Debug\net8.0\ThrowExpression.pdb
+G:\IT\C#\thisCSharp\ThrowExpression\obj\Debug\net8.0\ThrowExpression.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\ThrowExpression\obj\Debug\net8.0\ref\ThrowExpression.dll

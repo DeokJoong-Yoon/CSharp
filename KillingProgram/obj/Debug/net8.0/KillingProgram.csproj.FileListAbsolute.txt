@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\KillingProgram\bin\Debug\net8.0\KillingProgram.exe
+G:\IT\C#\thisCSharp\KillingProgram\bin\Debug\net8.0\KillingProgram.deps.json
+G:\IT\C#\thisCSharp\KillingProgram\bin\Debug\net8.0\KillingProgram.runtimeconfig.json
+G:\IT\C#\thisCSharp\KillingProgram\bin\Debug\net8.0\KillingProgram.dll
+G:\IT\C#\thisCSharp\KillingProgram\bin\Debug\net8.0\KillingProgram.pdb
+G:\IT\C#\thisCSharp\KillingProgram\obj\Debug\net8.0\KillingProgram.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\KillingProgram\obj\Debug\net8.0\KillingProgram.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\KillingProgram\obj\Debug\net8.0\KillingProgram.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\KillingProgram\obj\Debug\net8.0\KillingProgram.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\KillingProgram\obj\Debug\net8.0\KillingProgram.sourcelink.json
+G:\IT\C#\thisCSharp\KillingProgram\obj\Debug\net8.0\KillingProgram.dll
+G:\IT\C#\thisCSharp\KillingProgram\obj\Debug\net8.0\refint\KillingProgram.dll
+G:\IT\C#\thisCSharp\KillingProgram\obj\Debug\net8.0\KillingProgram.pdb
+G:\IT\C#\thisCSharp\KillingProgram\obj\Debug\net8.0\KillingProgram.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\KillingProgram\obj\Debug\net8.0\ref\KillingProgram.dll

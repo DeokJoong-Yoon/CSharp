@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\MyException\bin\Debug\net8.0\MyException.exe
+G:\IT\C#\thisCSharp\MyException\bin\Debug\net8.0\MyException.deps.json
+G:\IT\C#\thisCSharp\MyException\bin\Debug\net8.0\MyException.runtimeconfig.json
+G:\IT\C#\thisCSharp\MyException\bin\Debug\net8.0\MyException.dll
+G:\IT\C#\thisCSharp\MyException\bin\Debug\net8.0\MyException.pdb
+G:\IT\C#\thisCSharp\MyException\obj\Debug\net8.0\MyException.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\MyException\obj\Debug\net8.0\MyException.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\MyException\obj\Debug\net8.0\MyException.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\MyException\obj\Debug\net8.0\MyException.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\MyException\obj\Debug\net8.0\MyException.sourcelink.json
+G:\IT\C#\thisCSharp\MyException\obj\Debug\net8.0\MyException.dll
+G:\IT\C#\thisCSharp\MyException\obj\Debug\net8.0\refint\MyException.dll
+G:\IT\C#\thisCSharp\MyException\obj\Debug\net8.0\MyException.pdb
+G:\IT\C#\thisCSharp\MyException\obj\Debug\net8.0\MyException.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\MyException\obj\Debug\net8.0\ref\MyException.dll

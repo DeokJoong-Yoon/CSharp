@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\InitializingArray\bin\Debug\net8.0\InitializingArray.exe
+G:\IT\C#\thisCSharp\InitializingArray\bin\Debug\net8.0\InitializingArray.deps.json
+G:\IT\C#\thisCSharp\InitializingArray\bin\Debug\net8.0\InitializingArray.runtimeconfig.json
+G:\IT\C#\thisCSharp\InitializingArray\bin\Debug\net8.0\InitializingArray.dll
+G:\IT\C#\thisCSharp\InitializingArray\bin\Debug\net8.0\InitializingArray.pdb
+G:\IT\C#\thisCSharp\InitializingArray\obj\Debug\net8.0\InitializingArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\InitializingArray\obj\Debug\net8.0\InitializingArray.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\InitializingArray\obj\Debug\net8.0\InitializingArray.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\InitializingArray\obj\Debug\net8.0\InitializingArray.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\InitializingArray\obj\Debug\net8.0\InitializingArray.sourcelink.json
+G:\IT\C#\thisCSharp\InitializingArray\obj\Debug\net8.0\InitializingArray.dll
+G:\IT\C#\thisCSharp\InitializingArray\obj\Debug\net8.0\refint\InitializingArray.dll
+G:\IT\C#\thisCSharp\InitializingArray\obj\Debug\net8.0\InitializingArray.pdb
+G:\IT\C#\thisCSharp\InitializingArray\obj\Debug\net8.0\InitializingArray.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\InitializingArray\obj\Debug\net8.0\ref\InitializingArray.dll

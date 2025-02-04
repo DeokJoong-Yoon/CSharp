@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.exe
+G:\IT\C#\thisCSharp\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.deps.json
+G:\IT\C#\thisCSharp\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.runtimeconfig.json
+G:\IT\C#\thisCSharp\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.dll
+G:\IT\C#\thisCSharp\UsingGenericStack\bin\Debug\net8.0\UsingGenericStack.pdb
+G:\IT\C#\thisCSharp\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.sourcelink.json
+G:\IT\C#\thisCSharp\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.dll
+G:\IT\C#\thisCSharp\UsingGenericStack\obj\Debug\net8.0\refint\UsingGenericStack.dll
+G:\IT\C#\thisCSharp\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.pdb
+G:\IT\C#\thisCSharp\UsingGenericStack\obj\Debug\net8.0\UsingGenericStack.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\UsingGenericStack\obj\Debug\net8.0\ref\UsingGenericStack.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\bin\Debug\net8.0\PropertiesInAbstractClass.exe
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\bin\Debug\net8.0\PropertiesInAbstractClass.deps.json
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\bin\Debug\net8.0\PropertiesInAbstractClass.runtimeconfig.json
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\bin\Debug\net8.0\PropertiesInAbstractClass.dll
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\bin\Debug\net8.0\PropertiesInAbstractClass.pdb
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.sourcelink.json
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.dll
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\obj\Debug\net8.0\refint\PropertiesInAbstractClass.dll
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.pdb
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\obj\Debug\net8.0\PropertiesInAbstractClass.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\PropertiesInAbstractClass\obj\Debug\net8.0\ref\PropertiesInAbstractClass.dll

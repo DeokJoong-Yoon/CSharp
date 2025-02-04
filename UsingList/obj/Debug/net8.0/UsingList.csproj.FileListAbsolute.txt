@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\UsingList\bin\Debug\net8.0\UsingList.exe
+G:\IT\C#\thisCSharp\UsingList\bin\Debug\net8.0\UsingList.deps.json
+G:\IT\C#\thisCSharp\UsingList\bin\Debug\net8.0\UsingList.runtimeconfig.json
+G:\IT\C#\thisCSharp\UsingList\bin\Debug\net8.0\UsingList.dll
+G:\IT\C#\thisCSharp\UsingList\bin\Debug\net8.0\UsingList.pdb
+G:\IT\C#\thisCSharp\UsingList\obj\Debug\net8.0\UsingList.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\UsingList\obj\Debug\net8.0\UsingList.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\UsingList\obj\Debug\net8.0\UsingList.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\UsingList\obj\Debug\net8.0\UsingList.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\UsingList\obj\Debug\net8.0\UsingList.sourcelink.json
+G:\IT\C#\thisCSharp\UsingList\obj\Debug\net8.0\UsingList.dll
+G:\IT\C#\thisCSharp\UsingList\obj\Debug\net8.0\refint\UsingList.dll
+G:\IT\C#\thisCSharp\UsingList\obj\Debug\net8.0\UsingList.pdb
+G:\IT\C#\thisCSharp\UsingList\obj\Debug\net8.0\UsingList.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\UsingList\obj\Debug\net8.0\ref\UsingList.dll

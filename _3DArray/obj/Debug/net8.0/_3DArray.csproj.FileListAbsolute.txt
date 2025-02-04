@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\_3DArray\bin\Debug\net8.0\_3DArray.exe
+G:\IT\C#\thisCSharp\_3DArray\bin\Debug\net8.0\_3DArray.deps.json
+G:\IT\C#\thisCSharp\_3DArray\bin\Debug\net8.0\_3DArray.runtimeconfig.json
+G:\IT\C#\thisCSharp\_3DArray\bin\Debug\net8.0\_3DArray.dll
+G:\IT\C#\thisCSharp\_3DArray\bin\Debug\net8.0\_3DArray.pdb
+G:\IT\C#\thisCSharp\_3DArray\obj\Debug\net8.0\_3DArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\_3DArray\obj\Debug\net8.0\_3DArray.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\_3DArray\obj\Debug\net8.0\_3DArray.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\_3DArray\obj\Debug\net8.0\_3DArray.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\_3DArray\obj\Debug\net8.0\_3DArray.sourcelink.json
+G:\IT\C#\thisCSharp\_3DArray\obj\Debug\net8.0\_3DArray.dll
+G:\IT\C#\thisCSharp\_3DArray\obj\Debug\net8.0\refint\_3DArray.dll
+G:\IT\C#\thisCSharp\_3DArray\obj\Debug\net8.0\_3DArray.pdb
+G:\IT\C#\thisCSharp\_3DArray\obj\Debug\net8.0\_3DArray.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\_3DArray\obj\Debug\net8.0\ref\_3DArray.dll

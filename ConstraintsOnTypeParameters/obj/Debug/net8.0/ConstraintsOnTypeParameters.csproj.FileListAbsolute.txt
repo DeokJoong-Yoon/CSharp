@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\bin\Debug\net8.0\ConstraintsOnTypeParameters.exe
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\bin\Debug\net8.0\ConstraintsOnTypeParameters.deps.json
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\bin\Debug\net8.0\ConstraintsOnTypeParameters.runtimeconfig.json
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\bin\Debug\net8.0\ConstraintsOnTypeParameters.dll
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\bin\Debug\net8.0\ConstraintsOnTypeParameters.pdb
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\obj\Debug\net8.0\ConstraintsOnTypeParameters.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\obj\Debug\net8.0\ConstraintsOnTypeParameters.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\obj\Debug\net8.0\ConstraintsOnTypeParameters.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\obj\Debug\net8.0\ConstraintsOnTypeParameters.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\obj\Debug\net8.0\ConstraintsOnTypeParameters.sourcelink.json
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\obj\Debug\net8.0\ConstraintsOnTypeParameters.dll
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\obj\Debug\net8.0\refint\ConstraintsOnTypeParameters.dll
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\obj\Debug\net8.0\ConstraintsOnTypeParameters.pdb
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\obj\Debug\net8.0\ConstraintsOnTypeParameters.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\ConstraintsOnTypeParameters\obj\Debug\net8.0\ref\ConstraintsOnTypeParameters.dll

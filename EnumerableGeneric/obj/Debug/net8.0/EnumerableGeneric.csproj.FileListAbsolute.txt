@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\EnumerableGeneric\bin\Debug\net8.0\EnumerableGeneric.exe
+G:\IT\C#\thisCSharp\EnumerableGeneric\bin\Debug\net8.0\EnumerableGeneric.deps.json
+G:\IT\C#\thisCSharp\EnumerableGeneric\bin\Debug\net8.0\EnumerableGeneric.runtimeconfig.json
+G:\IT\C#\thisCSharp\EnumerableGeneric\bin\Debug\net8.0\EnumerableGeneric.dll
+G:\IT\C#\thisCSharp\EnumerableGeneric\bin\Debug\net8.0\EnumerableGeneric.pdb
+G:\IT\C#\thisCSharp\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.sourcelink.json
+G:\IT\C#\thisCSharp\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.dll
+G:\IT\C#\thisCSharp\EnumerableGeneric\obj\Debug\net8.0\refint\EnumerableGeneric.dll
+G:\IT\C#\thisCSharp\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.pdb
+G:\IT\C#\thisCSharp\EnumerableGeneric\obj\Debug\net8.0\EnumerableGeneric.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\EnumerableGeneric\obj\Debug\net8.0\ref\EnumerableGeneric.dll

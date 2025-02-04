@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Finally\bin\Debug\net8.0\Finally.exe
+G:\IT\C#\thisCSharp\Finally\bin\Debug\net8.0\Finally.deps.json
+G:\IT\C#\thisCSharp\Finally\bin\Debug\net8.0\Finally.runtimeconfig.json
+G:\IT\C#\thisCSharp\Finally\bin\Debug\net8.0\Finally.dll
+G:\IT\C#\thisCSharp\Finally\bin\Debug\net8.0\Finally.pdb
+G:\IT\C#\thisCSharp\Finally\obj\Debug\net8.0\Finally.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Finally\obj\Debug\net8.0\Finally.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Finally\obj\Debug\net8.0\Finally.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Finally\obj\Debug\net8.0\Finally.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Finally\obj\Debug\net8.0\Finally.sourcelink.json
+G:\IT\C#\thisCSharp\Finally\obj\Debug\net8.0\Finally.dll
+G:\IT\C#\thisCSharp\Finally\obj\Debug\net8.0\refint\Finally.dll
+G:\IT\C#\thisCSharp\Finally\obj\Debug\net8.0\Finally.pdb
+G:\IT\C#\thisCSharp\Finally\obj\Debug\net8.0\Finally.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Finally\obj\Debug\net8.0\ref\Finally.dll

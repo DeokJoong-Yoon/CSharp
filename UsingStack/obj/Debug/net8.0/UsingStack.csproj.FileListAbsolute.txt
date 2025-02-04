@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\UsingStack\bin\Debug\net8.0\UsingStack.exe
+G:\IT\C#\thisCSharp\UsingStack\bin\Debug\net8.0\UsingStack.deps.json
+G:\IT\C#\thisCSharp\UsingStack\bin\Debug\net8.0\UsingStack.runtimeconfig.json
+G:\IT\C#\thisCSharp\UsingStack\bin\Debug\net8.0\UsingStack.dll
+G:\IT\C#\thisCSharp\UsingStack\bin\Debug\net8.0\UsingStack.pdb
+G:\IT\C#\thisCSharp\UsingStack\obj\Debug\net8.0\UsingStack.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\UsingStack\obj\Debug\net8.0\UsingStack.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\UsingStack\obj\Debug\net8.0\UsingStack.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\UsingStack\obj\Debug\net8.0\UsingStack.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\UsingStack\obj\Debug\net8.0\UsingStack.sourcelink.json
+G:\IT\C#\thisCSharp\UsingStack\obj\Debug\net8.0\UsingStack.dll
+G:\IT\C#\thisCSharp\UsingStack\obj\Debug\net8.0\refint\UsingStack.dll
+G:\IT\C#\thisCSharp\UsingStack\obj\Debug\net8.0\UsingStack.pdb
+G:\IT\C#\thisCSharp\UsingStack\obj\Debug\net8.0\UsingStack.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\UsingStack\obj\Debug\net8.0\ref\UsingStack.dll

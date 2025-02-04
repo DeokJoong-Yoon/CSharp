@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Slice\bin\Debug\net8.0\Slice.exe
+G:\IT\C#\thisCSharp\Slice\bin\Debug\net8.0\Slice.deps.json
+G:\IT\C#\thisCSharp\Slice\bin\Debug\net8.0\Slice.runtimeconfig.json
+G:\IT\C#\thisCSharp\Slice\bin\Debug\net8.0\Slice.dll
+G:\IT\C#\thisCSharp\Slice\bin\Debug\net8.0\Slice.pdb
+G:\IT\C#\thisCSharp\Slice\obj\Debug\net8.0\Slice.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Slice\obj\Debug\net8.0\Slice.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Slice\obj\Debug\net8.0\Slice.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Slice\obj\Debug\net8.0\Slice.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Slice\obj\Debug\net8.0\Slice.sourcelink.json
+G:\IT\C#\thisCSharp\Slice\obj\Debug\net8.0\Slice.dll
+G:\IT\C#\thisCSharp\Slice\obj\Debug\net8.0\refint\Slice.dll
+G:\IT\C#\thisCSharp\Slice\obj\Debug\net8.0\Slice.pdb
+G:\IT\C#\thisCSharp\Slice\obj\Debug\net8.0\Slice.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Slice\obj\Debug\net8.0\ref\Slice.dll

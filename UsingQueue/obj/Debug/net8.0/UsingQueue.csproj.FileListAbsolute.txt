@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\UsingQueue\bin\Debug\net8.0\UsingQueue.exe
+G:\IT\C#\thisCSharp\UsingQueue\bin\Debug\net8.0\UsingQueue.deps.json
+G:\IT\C#\thisCSharp\UsingQueue\bin\Debug\net8.0\UsingQueue.runtimeconfig.json
+G:\IT\C#\thisCSharp\UsingQueue\bin\Debug\net8.0\UsingQueue.dll
+G:\IT\C#\thisCSharp\UsingQueue\bin\Debug\net8.0\UsingQueue.pdb
+G:\IT\C#\thisCSharp\UsingQueue\obj\Debug\net8.0\UsingQueue.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\UsingQueue\obj\Debug\net8.0\UsingQueue.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\UsingQueue\obj\Debug\net8.0\UsingQueue.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\UsingQueue\obj\Debug\net8.0\UsingQueue.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\UsingQueue\obj\Debug\net8.0\UsingQueue.sourcelink.json
+G:\IT\C#\thisCSharp\UsingQueue\obj\Debug\net8.0\UsingQueue.dll
+G:\IT\C#\thisCSharp\UsingQueue\obj\Debug\net8.0\refint\UsingQueue.dll
+G:\IT\C#\thisCSharp\UsingQueue\obj\Debug\net8.0\UsingQueue.pdb
+G:\IT\C#\thisCSharp\UsingQueue\obj\Debug\net8.0\UsingQueue.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\UsingQueue\obj\Debug\net8.0\ref\UsingQueue.dll

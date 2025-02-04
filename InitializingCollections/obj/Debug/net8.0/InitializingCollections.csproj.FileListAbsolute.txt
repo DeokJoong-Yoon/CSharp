@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\InitializingCollections\bin\Debug\net8.0\InitializingCollections.exe
+G:\IT\C#\thisCSharp\InitializingCollections\bin\Debug\net8.0\InitializingCollections.deps.json
+G:\IT\C#\thisCSharp\InitializingCollections\bin\Debug\net8.0\InitializingCollections.runtimeconfig.json
+G:\IT\C#\thisCSharp\InitializingCollections\bin\Debug\net8.0\InitializingCollections.dll
+G:\IT\C#\thisCSharp\InitializingCollections\bin\Debug\net8.0\InitializingCollections.pdb
+G:\IT\C#\thisCSharp\InitializingCollections\obj\Debug\net8.0\InitializingCollections.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\InitializingCollections\obj\Debug\net8.0\InitializingCollections.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\InitializingCollections\obj\Debug\net8.0\InitializingCollections.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\InitializingCollections\obj\Debug\net8.0\InitializingCollections.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\InitializingCollections\obj\Debug\net8.0\InitializingCollections.sourcelink.json
+G:\IT\C#\thisCSharp\InitializingCollections\obj\Debug\net8.0\InitializingCollections.dll
+G:\IT\C#\thisCSharp\InitializingCollections\obj\Debug\net8.0\refint\InitializingCollections.dll
+G:\IT\C#\thisCSharp\InitializingCollections\obj\Debug\net8.0\InitializingCollections.pdb
+G:\IT\C#\thisCSharp\InitializingCollections\obj\Debug\net8.0\InitializingCollections.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\InitializingCollections\obj\Debug\net8.0\ref\InitializingCollections.dll

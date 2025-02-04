@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Ex9_1\bin\Debug\net8.0\Ex9_1.exe
+G:\IT\C#\thisCSharp\Ex9_1\bin\Debug\net8.0\Ex9_1.deps.json
+G:\IT\C#\thisCSharp\Ex9_1\bin\Debug\net8.0\Ex9_1.runtimeconfig.json
+G:\IT\C#\thisCSharp\Ex9_1\bin\Debug\net8.0\Ex9_1.dll
+G:\IT\C#\thisCSharp\Ex9_1\bin\Debug\net8.0\Ex9_1.pdb
+G:\IT\C#\thisCSharp\Ex9_1\obj\Debug\net8.0\Ex9_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Ex9_1\obj\Debug\net8.0\Ex9_1.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Ex9_1\obj\Debug\net8.0\Ex9_1.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Ex9_1\obj\Debug\net8.0\Ex9_1.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Ex9_1\obj\Debug\net8.0\Ex9_1.sourcelink.json
+G:\IT\C#\thisCSharp\Ex9_1\obj\Debug\net8.0\Ex9_1.dll
+G:\IT\C#\thisCSharp\Ex9_1\obj\Debug\net8.0\refint\Ex9_1.dll
+G:\IT\C#\thisCSharp\Ex9_1\obj\Debug\net8.0\Ex9_1.pdb
+G:\IT\C#\thisCSharp\Ex9_1\obj\Debug\net8.0\Ex9_1.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Ex9_1\obj\Debug\net8.0\ref\Ex9_1.dll

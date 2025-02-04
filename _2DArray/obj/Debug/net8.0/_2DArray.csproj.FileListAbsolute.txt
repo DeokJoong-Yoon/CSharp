@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\_2DArray\bin\Debug\net8.0\_2DArray.exe
+G:\IT\C#\thisCSharp\_2DArray\bin\Debug\net8.0\_2DArray.deps.json
+G:\IT\C#\thisCSharp\_2DArray\bin\Debug\net8.0\_2DArray.runtimeconfig.json
+G:\IT\C#\thisCSharp\_2DArray\bin\Debug\net8.0\_2DArray.dll
+G:\IT\C#\thisCSharp\_2DArray\bin\Debug\net8.0\_2DArray.pdb
+G:\IT\C#\thisCSharp\_2DArray\obj\Debug\net8.0\_2DArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\_2DArray\obj\Debug\net8.0\_2DArray.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\_2DArray\obj\Debug\net8.0\_2DArray.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\_2DArray\obj\Debug\net8.0\_2DArray.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\_2DArray\obj\Debug\net8.0\_2DArray.sourcelink.json
+G:\IT\C#\thisCSharp\_2DArray\obj\Debug\net8.0\_2DArray.dll
+G:\IT\C#\thisCSharp\_2DArray\obj\Debug\net8.0\refint\_2DArray.dll
+G:\IT\C#\thisCSharp\_2DArray\obj\Debug\net8.0\_2DArray.pdb
+G:\IT\C#\thisCSharp\_2DArray\obj\Debug\net8.0\_2DArray.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\_2DArray\obj\Debug\net8.0\ref\_2DArray.dll

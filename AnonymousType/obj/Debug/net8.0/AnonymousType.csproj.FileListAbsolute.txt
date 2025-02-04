@@ -1,0 +1,5 @@
+G:\IT\C#\thisCSharp\AnonymousType\obj\Debug\net8.0\AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\AnonymousType\obj\Debug\net8.0\AnonymousType.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\AnonymousType\obj\Debug\net8.0\AnonymousType.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\AnonymousType\obj\Debug\net8.0\AnonymousType.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\AnonymousType\obj\Debug\net8.0\AnonymousType.sourcelink.json

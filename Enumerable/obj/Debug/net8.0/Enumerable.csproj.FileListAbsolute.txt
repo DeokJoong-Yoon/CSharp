@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Enumerable\bin\Debug\net8.0\Enumerable.exe
+G:\IT\C#\thisCSharp\Enumerable\bin\Debug\net8.0\Enumerable.deps.json
+G:\IT\C#\thisCSharp\Enumerable\bin\Debug\net8.0\Enumerable.runtimeconfig.json
+G:\IT\C#\thisCSharp\Enumerable\bin\Debug\net8.0\Enumerable.dll
+G:\IT\C#\thisCSharp\Enumerable\bin\Debug\net8.0\Enumerable.pdb
+G:\IT\C#\thisCSharp\Enumerable\obj\Debug\net8.0\Enumerable.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Enumerable\obj\Debug\net8.0\Enumerable.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Enumerable\obj\Debug\net8.0\Enumerable.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Enumerable\obj\Debug\net8.0\Enumerable.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Enumerable\obj\Debug\net8.0\Enumerable.sourcelink.json
+G:\IT\C#\thisCSharp\Enumerable\obj\Debug\net8.0\Enumerable.dll
+G:\IT\C#\thisCSharp\Enumerable\obj\Debug\net8.0\refint\Enumerable.dll
+G:\IT\C#\thisCSharp\Enumerable\obj\Debug\net8.0\Enumerable.pdb
+G:\IT\C#\thisCSharp\Enumerable\obj\Debug\net8.0\Enumerable.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Enumerable\obj\Debug\net8.0\ref\Enumerable.dll

@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\CopyingArray\bin\Debug\net8.0\CopyingArray.exe
+G:\IT\C#\thisCSharp\CopyingArray\bin\Debug\net8.0\CopyingArray.deps.json
+G:\IT\C#\thisCSharp\CopyingArray\bin\Debug\net8.0\CopyingArray.runtimeconfig.json
+G:\IT\C#\thisCSharp\CopyingArray\bin\Debug\net8.0\CopyingArray.dll
+G:\IT\C#\thisCSharp\CopyingArray\bin\Debug\net8.0\CopyingArray.pdb
+G:\IT\C#\thisCSharp\CopyingArray\obj\Debug\net8.0\CopyingArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\CopyingArray\obj\Debug\net8.0\CopyingArray.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\CopyingArray\obj\Debug\net8.0\CopyingArray.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\CopyingArray\obj\Debug\net8.0\CopyingArray.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\CopyingArray\obj\Debug\net8.0\CopyingArray.sourcelink.json
+G:\IT\C#\thisCSharp\CopyingArray\obj\Debug\net8.0\CopyingArray.dll
+G:\IT\C#\thisCSharp\CopyingArray\obj\Debug\net8.0\refint\CopyingArray.dll
+G:\IT\C#\thisCSharp\CopyingArray\obj\Debug\net8.0\CopyingArray.pdb
+G:\IT\C#\thisCSharp\CopyingArray\obj\Debug\net8.0\CopyingArray.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\CopyingArray\obj\Debug\net8.0\ref\CopyingArray.dll

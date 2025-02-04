@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\WithExp\bin\Debug\net8.0\WithExp.exe
+G:\IT\C#\thisCSharp\WithExp\bin\Debug\net8.0\WithExp.deps.json
+G:\IT\C#\thisCSharp\WithExp\bin\Debug\net8.0\WithExp.runtimeconfig.json
+G:\IT\C#\thisCSharp\WithExp\bin\Debug\net8.0\WithExp.dll
+G:\IT\C#\thisCSharp\WithExp\bin\Debug\net8.0\WithExp.pdb
+G:\IT\C#\thisCSharp\WithExp\obj\Debug\net8.0\WithExp.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\WithExp\obj\Debug\net8.0\WithExp.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\WithExp\obj\Debug\net8.0\WithExp.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\WithExp\obj\Debug\net8.0\WithExp.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\WithExp\obj\Debug\net8.0\WithExp.sourcelink.json
+G:\IT\C#\thisCSharp\WithExp\obj\Debug\net8.0\WithExp.dll
+G:\IT\C#\thisCSharp\WithExp\obj\Debug\net8.0\refint\WithExp.dll
+G:\IT\C#\thisCSharp\WithExp\obj\Debug\net8.0\WithExp.pdb
+G:\IT\C#\thisCSharp\WithExp\obj\Debug\net8.0\WithExp.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\WithExp\obj\Debug\net8.0\ref\WithExp.dll

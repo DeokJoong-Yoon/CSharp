@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\namespace ArraySample2\bin\Debug\net8.0\namespace ArraySample2.exe
+G:\IT\C#\thisCSharp\namespace ArraySample2\bin\Debug\net8.0\namespace ArraySample2.deps.json
+G:\IT\C#\thisCSharp\namespace ArraySample2\bin\Debug\net8.0\namespace ArraySample2.runtimeconfig.json
+G:\IT\C#\thisCSharp\namespace ArraySample2\bin\Debug\net8.0\namespace ArraySample2.dll
+G:\IT\C#\thisCSharp\namespace ArraySample2\bin\Debug\net8.0\namespace ArraySample2.pdb
+G:\IT\C#\thisCSharp\namespace ArraySample2\obj\Debug\net8.0\namespace ArraySample2.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\namespace ArraySample2\obj\Debug\net8.0\namespace ArraySample2.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\namespace ArraySample2\obj\Debug\net8.0\namespace ArraySample2.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\namespace ArraySample2\obj\Debug\net8.0\namespace ArraySample2.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\namespace ArraySample2\obj\Debug\net8.0\namespace ArraySample2.sourcelink.json
+G:\IT\C#\thisCSharp\namespace ArraySample2\obj\Debug\net8.0\namespace ArraySample2.dll
+G:\IT\C#\thisCSharp\namespace ArraySample2\obj\Debug\net8.0\refint\namespace ArraySample2.dll
+G:\IT\C#\thisCSharp\namespace ArraySample2\obj\Debug\net8.0\namespace ArraySample2.pdb
+G:\IT\C#\thisCSharp\namespace ArraySample2\obj\Debug\net8.0\namespace ArraySample2.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\namespace ArraySample2\obj\Debug\net8.0\ref\namespace ArraySample2.dll

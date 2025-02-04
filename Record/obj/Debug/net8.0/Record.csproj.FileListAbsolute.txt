@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\Record\bin\Debug\net8.0\Record.exe
+G:\IT\C#\thisCSharp\Record\bin\Debug\net8.0\Record.deps.json
+G:\IT\C#\thisCSharp\Record\bin\Debug\net8.0\Record.runtimeconfig.json
+G:\IT\C#\thisCSharp\Record\bin\Debug\net8.0\Record.dll
+G:\IT\C#\thisCSharp\Record\bin\Debug\net8.0\Record.pdb
+G:\IT\C#\thisCSharp\Record\obj\Debug\net8.0\Record.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\Record\obj\Debug\net8.0\Record.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\Record\obj\Debug\net8.0\Record.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\Record\obj\Debug\net8.0\Record.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\Record\obj\Debug\net8.0\Record.sourcelink.json
+G:\IT\C#\thisCSharp\Record\obj\Debug\net8.0\Record.dll
+G:\IT\C#\thisCSharp\Record\obj\Debug\net8.0\refint\Record.dll
+G:\IT\C#\thisCSharp\Record\obj\Debug\net8.0\Record.pdb
+G:\IT\C#\thisCSharp\Record\obj\Debug\net8.0\Record.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\Record\obj\Debug\net8.0\ref\Record.dll

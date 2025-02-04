@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\DerivedFromArray\bin\Debug\net8.0\DerivedFromArray.exe
+G:\IT\C#\thisCSharp\DerivedFromArray\bin\Debug\net8.0\DerivedFromArray.deps.json
+G:\IT\C#\thisCSharp\DerivedFromArray\bin\Debug\net8.0\DerivedFromArray.runtimeconfig.json
+G:\IT\C#\thisCSharp\DerivedFromArray\bin\Debug\net8.0\DerivedFromArray.dll
+G:\IT\C#\thisCSharp\DerivedFromArray\bin\Debug\net8.0\DerivedFromArray.pdb
+G:\IT\C#\thisCSharp\DerivedFromArray\obj\Debug\net8.0\DerivedFromArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\DerivedFromArray\obj\Debug\net8.0\DerivedFromArray.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\DerivedFromArray\obj\Debug\net8.0\DerivedFromArray.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\DerivedFromArray\obj\Debug\net8.0\DerivedFromArray.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\DerivedFromArray\obj\Debug\net8.0\DerivedFromArray.sourcelink.json
+G:\IT\C#\thisCSharp\DerivedFromArray\obj\Debug\net8.0\DerivedFromArray.dll
+G:\IT\C#\thisCSharp\DerivedFromArray\obj\Debug\net8.0\refint\DerivedFromArray.dll
+G:\IT\C#\thisCSharp\DerivedFromArray\obj\Debug\net8.0\DerivedFromArray.pdb
+G:\IT\C#\thisCSharp\DerivedFromArray\obj\Debug\net8.0\DerivedFromArray.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\DerivedFromArray\obj\Debug\net8.0\ref\DerivedFromArray.dll

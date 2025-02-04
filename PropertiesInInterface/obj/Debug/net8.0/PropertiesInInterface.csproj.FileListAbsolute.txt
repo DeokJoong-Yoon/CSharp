@@ -1,0 +1,15 @@
+G:\IT\C#\thisCSharp\PropertiesInInterface\bin\Debug\net8.0\PropertiesInInterface.exe
+G:\IT\C#\thisCSharp\PropertiesInInterface\bin\Debug\net8.0\PropertiesInInterface.deps.json
+G:\IT\C#\thisCSharp\PropertiesInInterface\bin\Debug\net8.0\PropertiesInInterface.runtimeconfig.json
+G:\IT\C#\thisCSharp\PropertiesInInterface\bin\Debug\net8.0\PropertiesInInterface.dll
+G:\IT\C#\thisCSharp\PropertiesInInterface\bin\Debug\net8.0\PropertiesInInterface.pdb
+G:\IT\C#\thisCSharp\PropertiesInInterface\obj\Debug\net8.0\PropertiesInInterface.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\C#\thisCSharp\PropertiesInInterface\obj\Debug\net8.0\PropertiesInInterface.AssemblyInfoInputs.cache
+G:\IT\C#\thisCSharp\PropertiesInInterface\obj\Debug\net8.0\PropertiesInInterface.AssemblyInfo.cs
+G:\IT\C#\thisCSharp\PropertiesInInterface\obj\Debug\net8.0\PropertiesInInterface.csproj.CoreCompileInputs.cache
+G:\IT\C#\thisCSharp\PropertiesInInterface\obj\Debug\net8.0\PropertiesInInterface.sourcelink.json
+G:\IT\C#\thisCSharp\PropertiesInInterface\obj\Debug\net8.0\PropertiesInInterface.dll
+G:\IT\C#\thisCSharp\PropertiesInInterface\obj\Debug\net8.0\refint\PropertiesInInterface.dll
+G:\IT\C#\thisCSharp\PropertiesInInterface\obj\Debug\net8.0\PropertiesInInterface.pdb
+G:\IT\C#\thisCSharp\PropertiesInInterface\obj\Debug\net8.0\PropertiesInInterface.genruntimeconfig.cache
+G:\IT\C#\thisCSharp\PropertiesInInterface\obj\Debug\net8.0\ref\PropertiesInInterface.dll
